@@ -1,4 +1,4 @@
-# interlied
+# InterLied 1.0
 
 InterLied is a set of python GUI (interface) and python notebook, both designed for computational
 music analysis. Although it is adapted for analysing vocal pieces only, lieder in particular, a majority of
