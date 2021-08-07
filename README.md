@@ -102,6 +102,15 @@ The visualisation of the score is somewhat unreliable when done in Jupyter noteb
 
 -------
 ## EXPLORATION:
+This category of codes helps the user to further explore their acquired data or the pre-composed database that comes with the InterLied package. For more experienced programmers, these can be modified or rewritten, as they only provide a glimpse of what exploring data with Python can offer. These are also incorporated into the interface, although due to GUI’s performance, several functions may have a somewhat different structure from the ones offered in the notebook.
+
+### *1. interlied_int_explore_lyric* 
+It requires a data frame acquired by one of the analysis function and returns a dictionary (e.g., info text) with the most common intervals and lyric words combinations in explored score. From this, we can explore in detail each instance where the interval and a specific word co-exist. 
+
+### *2. interlied_int_explore_lyric_token*
+It requires the data frame of your choice, composer’s name, lyric token entry and interval entry. It returns a text with all information about these instances (from music parameters to metadata). We can notice that the data frame also requires composer information. This was added, assuming we may want to explore the same combinations within different corpora, or we have several composers stored in the same data frame. With slight modification this function can return a query of any desired parameters’ combination (for example replacing the composer for the lyricist, interval for rhythm pattern etc.). 
+
+!!! . The last pre-set algorithm "\textit{interlied-search-melody-rhythm-composer}" explores the relationship between rhythmic and melodic patterns, replacing the lyric parameter with the rhythm. It returns all instances of the score where both patterns match. While the functions above deal with data from either intervals or patterns data, the last explore option concerns itself with the "\textit{interlied-lyric}" output. It returns a list of most frequent words per score, alongside score’s title, composer, lyricist, and key.
 
 ![Screenshot 2021-08-07 at 16 50 55](https://user-images.githubusercontent.com/76003382/128604197-f707101c-2a9e-4992-9873-fd066da4e40c.png)
 
