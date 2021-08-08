@@ -118,7 +118,8 @@ It explores the relationship between rhythmic and melodic patterns, replacing th
 
 -------
 ## TUTORIALS
-This project will eventually offer a series of tutorials adapted to the computational beginners as well. After the full project will be published in September, you will find there a first tutorial - a case study on Slovenian 20th century Lieder using InterLied's tools.
+
+*This project will eventually offer a series of tutorials adapted to the computational beginners as well. After the full project will be published in September, you will find there a first tutorial - a case study on Slovenian 20th century Lieder using InterLied's tools.*
 -------
 InterLied is my master's thesis project, defended at the Pompeu Fabra University (SMC) under the mentorship of Dr Rafael Caro Repetto.
 
