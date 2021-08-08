@@ -1,0 +1,70 @@
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Kinkel_Johanna_-_6_Lieder_Op.10_No.5_-_Traumdeutung.mxl_combined.csv  116
+Repeated patterns of length >= 2 in score: 116
+Dropped  2194  unique patterns.
+The longest repeated pattern in corpus consists of:  '8'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Brahms_Johannes_-_8_Lieder_und_Gesnge_Op.57_No.7_-_Die_Schnur_die_Perl_an_Perle.mxl_combined.csv  239
+Repeated patterns of length >= 2 in score: 239
+Dropped  2631  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Holms_Augusta_-_20_Mlodies_No.20_-_Le_fil_des_curs_-_REVIEW.mxl_combined.csv  210
+Repeated patterns of length >= 2 in score: 210
+Dropped  4620  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Faisst_Clara_-_4_Lieder_Op._11_No._2_-_Riport_a_me.mxl_combined.csv  59
+Repeated patterns of length >= 2 in score: 59
+Dropped  1495  unique patterns.
+The longest repeated pattern in corpus consists of:  '5'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Holms_Augusta_-_20_Mlodies_No.8_-_Lternelle_idole.mxl_combined.csv  689
+Repeated patterns of length >= 2 in score: 689
+Dropped  3637  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Brahms_Johannes_-_8_Lieder_und_Gesnge_Op.59_No.4_-_Nachklang.mxl_combined.csv  198
+Repeated patterns of length >= 2 in score: 198
+Dropped  1720  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Holms_Augusta_-_20_Mlodies_No.6_-_En_chemin.mxl_combined.csv  7383
+Repeated patterns of length >= 2 in score: 7383
+Dropped  443  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Kinkel_Johanna_-_6_Lieder_Op.10_No.2_-_Der_Kuss.mxl_combined.csv  145
+Repeated patterns of length >= 2 in score: 145
+Dropped  1101  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Brahms_Johannes_-_8_Lieder_und_Gesnge_Op.58_No.7_-_Vorber.mxl_combined.csv  92
+Repeated patterns of length >= 2 in score: 92
+Dropped  2442  unique patterns.
+The longest repeated pattern in corpus consists of:  '4'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Holms_Augusta_-_20_Mlodies_No.3_-_La_barque_des_amours.mxl_combined.csv  8841
+Repeated patterns of length >= 2 in score: 8841
+Dropped  273  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Chausson_Ernest_-_7_Mlodies_Op.2_No.5_-_Srnade_italienne.mxl_combined.csv  137
+Repeated patterns of length >= 2 in score: 137
+Dropped  2257  unique patterns.
+The longest repeated pattern in corpus consists of:  '6'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Bizet_Georges_-_Feuilles_dalbum_No.5_-_Rose_dAmour.mxl_combined.csv  892
+Repeated patterns of length >= 2 in score: 892
+Dropped  5646  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Holms_Augusta_-_20_Mlodies_No.9_-_Garci_Perez_ballade_hroque.mxl_combined.csv  2604
+Repeated patterns of length >= 2 in score: 2604
+Dropped  10850  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
+-----------------------------------------INFO-----------------------------------------
+All n-grams in score:  _intervals_Mahler_Gustav_-_Kindertotenlieder_No.4_-_Oft_denk_ich_sie_sind_nur_ausgegangen.mxl_combined.csv  936
+Repeated patterns of length >= 2 in score: 936
+Dropped  2802  unique patterns.
+The longest repeated pattern in corpus consists of:  '9'  grams.
