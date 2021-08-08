@@ -117,6 +117,9 @@ It explores the relationship between rhythmic and melodic patterns, replacing th
 
 
 -------
+## TUTORIALS
+This project will eventually offer a series of tutorials adapted to the computational beginners as well. After the full project will be published in September, you will find there a first tutorial - a case study on Slovenian 20th century Lieder using InterLied's tools.
+-------
 InterLied is my master's thesis project, defended at the Pompeu Fabra University (SMC) under the mentorship of Dr Rafael Caro Repetto.
 
 For more information about the project and the citation, revisit this page in September as the citation and the hyperlink to the full thesis will be attached after the project is published on the official UPF page.
