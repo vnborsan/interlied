@@ -29,6 +29,15 @@ If you do not wish to interact with code, simply download the interface part abo
 -------
 ## 3. PACKAGE INTRODUCTION:
 
+### CONTENT OVERVIEW:
+- interface folder: Includes all neccessary codes to run GUI.
+- jupyter_notebooks folder: Includes all neccessary codes to run Interlied Jupyter Notebook.
+- example_scores_and_csvs: Includes 18 open source score (and processed csvs) examples (extracted from: https://musescore.com/openscore-lieder-corpus) in two languages.
+- "interlied_dependencies.py" allow you to run a single script and download all neccessary packages / dependencies.
+- "INTERLIED_USER_MANUAL.pdf" is a manual adapted for computational beginners, but is nonetheless suggested to be run through by all users.
+
+### CODE DESCRIPTIONS:
+
 The codes are separated into 3 categories:
 
 ### 3.1 ANALYSIS
