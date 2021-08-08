@@ -1,0 +1,26 @@
+Hi There!
+
+InterLied is a set of python GUI (interface) and python notebook, both designed for computational
+music analysis. Although it is adapted for analysing vocal pieces only, lieder in particular, a majority of
+its tools can be useful for other purposes as well. The notebook is appropriate for both,
+computationally advanced and beginner users. If you assume, you belong to the latter, please go
+through these instructions first and then open the GUI. The notebook does not require any coding
+experience; however, you are strongly encouraged to not only utilise the GUI, but also the InterLied
+notebook. All parameters are described in the notebook itself, thus, in order to get to it, scroll
+through the following chapters and first install Python3, install all the (missing) prerequisite
+dependencies and MuseScore or any other software for symbolic notation.
+
+------
+
+To use GUI, first install all prerequired dependencies. 
+You can do that automatically by opening terminal (Linux / Mac OS) or prompt command (Windows) and type in:
+"cd your/path/to/interface/Interlied_1.0"
+
+When you successfully enter the folder, type this command into terminal: 
+"python interlied_dependencies.py"
+
+If you run into some errors, install the required packages manually by following instructions in the INTERLIED_USER_MANUAL.
+
+------
+
+The Interlied offers 3 different types of codes.
