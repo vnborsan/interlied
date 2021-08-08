@@ -1,0 +1,119 @@
+,interval,duration,measure_start,measure_end,title,composer,year,lyricist,score_key_s,alternative_key(s),voice_range,meter_change,meter(s),lyric_string,lyric_tokens,lyric_language
+0,M-2,"(1.0, 1.5)",2,3,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Die Schnur die Perl an,"['schnur', 'perl']",german
+1,M-2,"(1.5, 0.5)",3,3,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Schnur die Perl an,"['schnur', 'perl']",german
+2,m-2,"(0.5, 0.5)",3,3,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Schnur die Perl an,"['schnur', 'perl']",german
+3,P+4,"(0.5, 0.5)",3,3,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Schnur die Perl an,"['schnur', 'perl']",german
+4,M-2,"(0.5, 1.5)",3,4,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Schnur die Perl an Perle um,"['schnur', 'perl', 'perle']",german
+5,M-2,"(1.5, 0.5)",4,4,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Perle um,['perle'],german
+6,m-2,"(0.5, 0.5)",4,4,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Perle um,['perle'],german
+7,m+6,"(0.5, 0.5)",4,4,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Perle um,['perle'],german
+8,M-2,"(0.5, 1.5)",4,5,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Perle um deinen,['perle'],german
+9,m-3,"(1.5, 0.5)",5,5,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deinen,[],german
+10,M+2,"(0.5, 0.5)",5,5,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deinen,[],german
+11,M-3,"(0.5, 0.5)",5,5,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deinen,[],german
+12,P+4,"(0.5, 1.5)",5,6,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deinen Hals,['hals'],german
+13,m-3,"(1.5, 0.5)",6,6,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Hals,['hals'],german
+14,M+2,"(0.5, 0.5)",6,6,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Hals,['hals'],german
+15,M-3,"(0.5, 0.5)",6,6,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Hals,['hals'],german
+16,M+3,"(0.5, 1.0)",6,7,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Hals gereihte,"['hals', 'gereihte']",german
+17,M-2,"(1.0, 1.0)",7,7,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},reihte,['reihte'],german
+18,P+4,"(1.0, 1.5)",8,9,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},wie wiegt sie,['wiegt'],german
+19,d-4,"(1.5, 0.5)",9,9,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},wiegt sie,['wiegt'],german
+20,m+2,"(0.5, 0.5)",9,9,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},wiegt sie,['wiegt'],german
+21,m+3,"(0.5, 0.5)",9,9,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},wiegt sie,['wiegt'],german
+22,P_1,"(0.5, 1.5)",9,10,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},wiegt sie sich so,['wiegt'],german
+23,d-4,"(1.5, 0.5)",10,10,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},sich so,[],german
+24,m+2,"(0.5, 0.5)",10,10,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},sich so,[],german
+25,m+3,"(0.5, 0.5)",10,10,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},sich so,[],german
+26,M+2,"(0.5, 2.0)",10,11,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},sich so fröhlich,['fröhlich'],german
+27,m-3,"(2.0, 1.0)",11,11,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fröhlich,['fröhlich'],german
+28,P+5,"(1.0, 1.0)",12,13,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},auf deiner,[],german
+29,M-2,"(1.0, 1.0)",13,13,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deiner,[],german
+30,m-2,"(1.0, 1.0)",13,13,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deiner,[],german
+31,P+4,"(1.0, 1.0)",13,14,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deiner schönen,['schönen'],german
+32,M-2,"(1.0, 1.0)",14,14,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen,['schönen'],german
+33,M-2,"(1.0, 1.0)",14,14,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen,['schönen'],german
+34,m-2,"(1.0, 1.0)",14,15,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen Brust,"['schönen', 'brust']",german
+35,A+2,"(1.0, 2.0)",16,17,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},auf deiner,[],german
+36,P-4,"(2.0, 1.0)",17,17,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deiner,[],german
+37,M+3,"(1.0, 1.5)",17,18,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},deiner schönen,['schönen'],german
+38,M-3,"(1.5, 0.5)",18,18,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen,['schönen'],german
+39,M-2,"(0.5, 0.5)",18,18,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen,['schönen'],german
+40,m-3,"(0.5, 0.5)",18,18,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen,['schönen'],german
+41,M-2,"(0.5, 1.0)",18,19,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schönen Brust,"['schönen', 'brust']",german
+42,m+3,"(1.0, 1.5)",20,21,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Mit Seel und Sinn,"['seel', 'sinn']",german
+43,m-2,"(1.5, 0.5)",21,21,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seel und Sinn,"['seel', 'sinn']",german
+44,m+2,"(0.5, 0.5)",21,21,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seel und Sinn,"['seel', 'sinn']",german
+45,m-3,"(0.5, 0.5)",21,21,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seel und Sinn,"['seel', 'sinn']",german
+46,M-2,"(0.5, 1.0)",21,22,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seel und Sinn begabet mit,"['seel', 'sinn', 'begabet']",german
+47,m-2,"(1.0, 1.0)",22,22,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},gabet mit,['gabet'],german
+48,P+4,"(0.5, 1.5)",22,23,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},gabet mit Seligkeit,"['gabet', 'seligkeit']",german
+49,M+2,"(1.5, 0.5)",23,23,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seligkeit,['seligkeit'],german
+50,m+2,"(0.5, 0.5)",23,23,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seligkeit,['seligkeit'],german
+51,m-3,"(0.5, 0.5)",23,23,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seligkeit,['seligkeit'],german
+52,M-2,"(0.5, 1.5)",23,24,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Seligkeit berauschet sie,"['seligkeit', 'berauschet']",german
+53,m-2,"(1.5, 0.5)",24,24,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},rauschet sie,['rauschet'],german
+54,P_1,"(0.5, 1.0)",24,24,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},rauschet sie,['rauschet'],german
+55,m+2,"(1.0, 2.0)",24,25,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},rauschet sie diese,['rauschet'],german
+56,A+1,"(2.0, 1.0)",25,25,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},diese,[],german
+57,m+2,"(1.0, 1.5)",25,26,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},diese,[],german
+58,m-3,"(1.5, 0.5)",26,26,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+59,P_1,"(0.5, 0.5)",26,26,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+60,M-2,"(0.5, 0.5)",26,26,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+61,M-2,"(0.5, 1.0)",26,27,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Götterlust,['götterlust'],german
+62,M-2,"(0.5, 1.5)",30,31,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Was müssen wir erst,"['müssen', 'erst']",german
+63,M-2,"(1.5, 0.5)",31,31,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},müssen wir erst,"['müssen', 'erst']",german
+64,P+4,"(0.5, 0.5)",31,31,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},müssen wir erst,"['müssen', 'erst']",german
+65,m-2,"(0.5, 0.5)",31,31,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},müssen wir erst,"['müssen', 'erst']",german
+66,M-2,"(0.5, 1.5)",31,32,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},müssen wir erst fühlen in,"['müssen', 'erst', 'fühlen']",german
+67,M-2,"(1.5, 0.5)",32,32,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fühlen in,['fühlen'],german
+68,m-2,"(0.5, 0.5)",32,32,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fühlen in,['fühlen'],german
+69,m+6,"(0.5, 0.5)",32,32,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fühlen in,['fühlen'],german
+70,M-2,"(0.5, 1.5)",32,33,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fühlen in welchen,['fühlen'],german
+71,m-3,"(1.5, 0.5)",33,33,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},welchen,[],german
+72,M+2,"(0.5, 0.5)",33,33,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},welchen,[],german
+73,M-3,"(0.5, 0.5)",33,33,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},welchen,[],german
+74,P+4,"(0.5, 1.5)",33,34,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},welchen Herzen,['herzen'],german
+75,m-3,"(1.5, 0.5)",34,34,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Herzen,['herzen'],german
+76,M+2,"(0.5, 0.5)",34,34,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Herzen,['herzen'],german
+77,M-3,"(0.5, 0.5)",34,34,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Herzen,['herzen'],german
+78,M+3,"(0.5, 1.0)",34,35,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Herzen schlagen so,"['herzen', 'schlagen']",german
+79,M-2,"(1.0, 1.0)",35,35,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schlagen so,['schlagen'],german
+80,P-5,"(1.0, 1.0)",35,35,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schlagen so,['schlagen'],german
+81,P+4,"(1.0, 1.5)",35,36,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schlagen so heisse,"['schlagen', 'heisse']",german
+82,d-4,"(1.5, 0.5)",36,36,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},heisse,['heisse'],german
+83,m+2,"(0.5, 0.5)",36,36,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},heisse,['heisse'],german
+84,m+3,"(0.5, 0.5)",36,36,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},heisse,['heisse'],german
+85,M+3,"(0.5, 1.5)",36,37,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},heisse,['heisse'],german
+86,P-4,"(1.5, 0.5)",37,37,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+87,m+2,"(0.5, 0.5)",37,37,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+88,M+3,"(0.5, 0.5)",37,37,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+89,m+3,"(0.5, 2.0)",37,38,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+90,m-2,"(2.0, 1.0)",38,38,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german
+91,M-2,"(1.0, 1.0)",38,39,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},herzen,['herzen'],german
+92,m+7,"(1.0, 1.5)",39,40,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},zen wofern es uns,"['zen', 'wofern']",german
+93,m-2,"(1.5, 0.5)",40,40,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fern es uns,['fern'],german
+94,m+2,"(0.5, 0.5)",40,40,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fern es uns,['fern'],german
+95,m-3,"(0.5, 0.5)",40,40,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fern es uns,['fern'],german
+96,M-2,"(0.5, 1.0)",40,41,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},fern es uns gestattet uns,"['fern', 'gestattet']",german
+97,m-2,"(1.0, 1.0)",41,41,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},stattet uns,['stattet'],german
+98,m+3,"(0.5, 1.5)",41,42,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},stattet uns traulich,"['stattet', 'traulich']",german
+99,m-2,"(1.5, 0.5)",42,42,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},traulich,['traulich'],german
+100,m+2,"(0.5, 0.5)",42,42,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},traulich,['traulich'],german
+101,M-3,"(0.5, 0.5)",42,42,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},traulich,['traulich'],german
+102,m-2,"(0.5, 1.0)",42,43,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},traulich anzuschmiegen,"['traulich', 'anzuschmiegen']",german
+103,M-2,"(1.0, 1.0)",43,43,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},schmiegen,['schmiegen'],german
+104,M+2,"(1.0, 1.0)",44,44,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},an eine,[],german
+105,m+2,"(1.0, 1.0)",44,44,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},an eine,[],german
+106,A+1,"(1.0, 1.5)",44,45,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},an eine solche,[],german
+107,M-2,"(1.5, 0.5)",45,45,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},solche,[],german
+108,M-2,"(0.5, 0.5)",45,45,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},solche,[],german
+109,m-2,"(0.5, 0.5)",45,45,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},solche,[],german
+110,m+2,"(0.5, 1.0)",45,46,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},solche Brust,['brust'],german
+111,P_1,"(1.0, 2.0)",47,48,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},an eine,[],german
+112,P_1,"(2.0, 1.0)",48,48,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},eine,[],german
+113,P_1,"(1.0, 2.0)",48,49,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},eine solche,[],german
+114,P_1,"(2.0, 1.0)",49,49,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},solche,[],german
+115,P+5,"(1.0, 3.0)",49,50,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},solche Brust,['brust'],german
+116,P_1,"(3.0, 1.0)",50,51,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},Brust,['brust'],german
+117,M-2,"(1.0, 1.0)",51,51,"8 Lieder und Gesänge, Op.57",Johannes Brahms,None,Georg Friedrich Daumer,B major,"['F# major', 'e- minor', 'b minor']",m10,NO,{'3/4'},,[],german

@@ -1,0 +1,296 @@
+,interval,duration,measure_start,measure_end,title,composer,year,lyricist,score_key_s,alternative_key(s),voice_range,meter_change,meter(s),lyric_string,lyric_tokens,lyric_language
+0,m+3,"(1.0, 0.5)",1,1,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur qui,"['voyageur', 'qui']",slovene
+1,m-3,"(0.5, 0.5)",1,1,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur qui,"['voyageur', 'qui']",slovene
+2,M-2,"(0.5, 1.0)",1,1,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur qui,"['voyageur', 'qui']",slovene
+3,P_1,"(1.0, 1.0)",1,1,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur qui,"['voyageur', 'qui']",slovene
+4,M-2,"(1.0, 1.0)",1,2,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur qui si tristement,"['voyageur', 'qui', 'tristement']",slovene
+5,M+3,"(1.0, 0.5)",2,2,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},si tristement,['tristement'],slovene
+6,M-3,"(0.5, 0.5)",2,2,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},si tristement,['tristement'],slovene
+7,m-2,"(0.5, 1.0)",2,2,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},si tristement,['tristement'],slovene
+8,P_1,"(1.0, 1.0)",2,2,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},si tristement,['tristement'],slovene
+9,M-2,"(1.0, 1.0)",2,3,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},si tristement Chemines dans la nuit,"['tristement', 'chemines', 'dans', 'nuit']",slovene
+10,M+2,"(1.0, 0.5)",3,3,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mines dans la nuit,"['mines', 'dans', 'nuit']",slovene
+11,m+2,"(0.5, 0.5)",3,3,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mines dans la nuit,"['mines', 'dans', 'nuit']",slovene
+12,P-4,"(0.5, 1.0)",3,3,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mines dans la nuit,"['mines', 'dans', 'nuit']",slovene
+13,P+4,"(1.0, 1.0)",3,3,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mines dans la nuit,"['mines', 'dans', 'nuit']",slovene
+14,P+4,"(1.0, 2.0)",3,4,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mines dans la nuit brune,"['mines', 'dans', 'nuit', 'brune']",slovene
+15,m-2,"(2.0, 1.0)",4,4,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},brune,['brune'],slovene
+16,m+3,"(1.0, 0.5)",5,5,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Livre ton cœur à,"['livre', 'ton', 'cœur']",slovene
+17,m-3,"(0.5, 0.5)",5,5,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Livre ton cœur à,"['livre', 'ton', 'cœur']",slovene
+18,M-2,"(0.5, 1.0)",5,5,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Livre ton cœur à,"['livre', 'ton', 'cœur']",slovene
+19,P_1,"(1.0, 1.0)",5,5,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Livre ton cœur à,"['livre', 'ton', 'cœur']",slovene
+20,M-2,"(1.0, 1.0)",5,6,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Livre ton cœur à lenchantement Du,"['livre', 'ton', 'cœur', 'lenchantement', 'du']",slovene
+21,M+3,"(1.0, 0.5)",6,6,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},lenchantement Du,"['lenchantement', 'du']",slovene
+22,M-3,"(0.5, 0.5)",6,6,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},lenchantement Du,"['lenchantement', 'du']",slovene
+23,m-2,"(0.5, 1.0)",6,6,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},lenchantement Du,"['lenchantement', 'du']",slovene
+24,P_1,"(1.0, 1.0)",6,6,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},lenchantement Du,"['lenchantement', 'du']",slovene
+25,M-2,"(1.0, 1.0)",6,7,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},lenchantement Du rêve et du clair de,"['lenchantement', 'du', 'rêve', 'du', 'clair']",slovene
+26,M+2,"(1.0, 0.5)",7,7,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rêve et du clair de,"['rêve', 'du', 'clair']",slovene
+27,m+2,"(0.5, 0.5)",7,7,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rêve et du clair de,"['rêve', 'du', 'clair']",slovene
+28,P-4,"(0.5, 1.0)",7,7,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rêve et du clair de,"['rêve', 'du', 'clair']",slovene
+29,M+6,"(1.0, 1.0)",7,7,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rêve et du clair de,"['rêve', 'du', 'clair']",slovene
+30,M-2,"(1.0, 2.0)",7,8,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rêve et du clair de lune,"['rêve', 'du', 'clair', 'lune']",slovene
+31,M-2,"(2.0, 1.0)",8,8,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},lune,['lune'],slovene
+32,P_1,"(1.0, 1.0)",9,9,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Vois les Elfes,"['vois', 'les', 'elfes']",slovene
+33,m-2,"(1.0, 1.0)",9,9,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Vois les Elfes,"['vois', 'les', 'elfes']",slovene
+34,M-2,"(1.0, 0.5)",9,9,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Vois les Elfes,"['vois', 'les', 'elfes']",slovene
+35,M-2,"(0.5, 0.5)",9,9,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Vois les Elfes,"['vois', 'les', 'elfes']",slovene
+36,M+6,"(0.5, 1.0)",9,10,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Vois les Elfes autour de toi,"['vois', 'les', 'elfes', 'autour', 'toi']",slovene
+37,P_1,"(1.0, 1.0)",10,10,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tour de toi,"['tour', 'toi']",slovene
+38,M-2,"(1.0, 1.0)",10,10,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tour de toi,"['tour', 'toi']",slovene
+39,P_1,"(1.0, 1.0)",10,10,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tour de toi,"['tour', 'toi']",slovene
+40,M-2,"(1.0, 1.0)",10,11,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tour de toi Fleu rissent la,"['tour', 'toi', 'fleu', 'rissent']",slovene
+41,M+2,"(1.0, 1.0)",11,11,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, rissent la,['rissent'],slovene
+42,m-3,"(1.0, 1.0)",11,11,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, rissent la,['rissent'],slovene
+43,M-2,"(1.0, 0.5)",11,11,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, rissent la,['rissent'],slovene
+44,M-2,"(0.5, 0.5)",11,11,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, rissent la,['rissent'],slovene
+45,M+2,"(0.5, 2.0)",11,12,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, rissent la clairière,"['rissent', 'clairière']",slovene
+46,P_1,"(2.0, 1.0)",12,12,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rière,['rière'],slovene
+47,P_1,"(1.0, 1.0)",13,13,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Prends ce Lys de,"['prends', 'ce', 'lys']",slovene
+48,m-2,"(1.0, 1.0)",13,13,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Prends ce Lys de,"['prends', 'ce', 'lys']",slovene
+49,M-2,"(1.0, 0.5)",13,13,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Prends ce Lys de,"['prends', 'ce', 'lys']",slovene
+50,M-2,"(0.5, 0.5)",13,13,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Prends ce Lys de,"['prends', 'ce', 'lys']",slovene
+51,M+6,"(0.5, 2.0)",13,14,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Prends ce Lys de lumière,"['prends', 'ce', 'lys', 'lumière']",slovene
+52,m-2,"(2.0, 2.0)",14,14,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mière,['mière'],slovene
+53,m+2,"(2.0, 1.0)",14,15,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mière Cest ton sceptre de,"['mière', 'cest', 'ton', 'sceptre']",slovene
+54,P-4,"(1.0, 1.0)",15,15,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest ton sceptre de,"['cest', 'ton', 'sceptre']",slovene
+55,M-3,"(1.0, 1.0)",15,15,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest ton sceptre de,"['cest', 'ton', 'sceptre']",slovene
+56,M+2,"(1.0, 0.5)",15,15,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest ton sceptre de,"['cest', 'ton', 'sceptre']",slovene
+57,M-2,"(0.5, 0.5)",15,15,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest ton sceptre de,"['cest', 'ton', 'sceptre']",slovene
+58,P+5,"(0.5, 2.0)",15,16,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest ton sceptre de roi,"['cest', 'ton', 'sceptre', 'roi']",slovene
+59,P_1,"(2.0, 1.0)",16,16,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},roi,['roi'],slovene
+60,P_1,"(2.0, 0.5)",17,17,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+61,P-8,"(0.5, 0.5)",17,17,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+62,M+2,"(0.5, 0.5)",17,17,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+63,m+6,"(0.5, 0.5)",17,17,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+64,m-2,"(0.5, 1.0)",17,18,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux rien rien au monde,"['non', 'veux', 'rien', 'rien', 'au', 'monde']",slovene
+65,M-2,"(1.0, 0.5)",18,18,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+66,m-2,"(0.5, 0.5)",18,18,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+67,m+3,"(0.5, 1.0)",18,18,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+68,M-2,"(1.0, 1.0)",18,18,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+69,P+4,"(1.0, 2.0)",18,19,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde Que les cheveux,"['rien', 'rien', 'au', 'monde', 'que', 'les', 'cheveux']",slovene
+70,P_1,"(2.0, 0.5)",19,19,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les cheveux,"['que', 'les', 'cheveux']",slovene
+71,P-8,"(0.5, 0.5)",19,19,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les cheveux,"['que', 'les', 'cheveux']",slovene
+72,M+2,"(0.5, 0.5)",19,19,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les cheveux,"['que', 'les', 'cheveux']",slovene
+73,m+6,"(0.5, 0.5)",19,19,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les cheveux,"['que', 'les', 'cheveux']",slovene
+74,m-2,"(0.5, 1.0)",19,20,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les cheveux dor de ma blonde,"['que', 'les', 'cheveux', 'dor', 'ma', 'blonde']",slovene
+75,M-2,"(1.0, 0.5)",20,20,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma blonde,"['dor', 'ma', 'blonde']",slovene
+76,m-2,"(0.5, 0.5)",20,20,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma blonde,"['dor', 'ma', 'blonde']",slovene
+77,m+3,"(0.5, 1.0)",20,20,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma blonde,"['dor', 'ma', 'blonde']",slovene
+78,M-2,"(1.0, 1.0)",20,20,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma blonde,"['dor', 'ma', 'blonde']",slovene
+79,m+6,"(1.0, 2.0)",20,21,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma blonde Non je ne veux,"['dor', 'ma', 'blonde', 'non', 'veux']",slovene
+80,P_1,"(2.0, 0.5)",21,21,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+81,m-7,"(0.5, 0.5)",21,21,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+82,M+2,"(0.5, 0.5)",21,21,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+83,P+5,"(0.5, 0.5)",21,21,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+84,M-2,"(0.5, 1.0)",21,22,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux rien rien au,"['non', 'veux', 'rien', 'rien', 'au']",slovene
+85,M-2,"(1.0, 0.5)",22,22,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+86,m-2,"(0.5, 0.5)",22,22,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+87,m+3,"(0.5, 1.0)",22,22,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+88,M-2,"(1.0, 1.0)",22,22,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+89,m-2,"(1.0, 1.0)",22,23,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde Que les cheveux,"['rien', 'rien', 'au', 'monde', 'que', 'les', 'cheveux']",slovene
+90,M+2,"(0.5, 0.5)",23,23,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les cheveux,"['que', 'les', 'cheveux']",slovene
+91,m+2,"(0.5, 0.5)",23,23,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les cheveux,"['que', 'les', 'cheveux']",slovene
+92,M+6,"(0.5, 0.5)",23,23,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les cheveux,"['que', 'les', 'cheveux']",slovene
+93,m-7,"(0.5, 1.0)",23,24,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les cheveux dor de ma,"['que', 'les', 'cheveux', 'dor', 'ma']",slovene
+94,M+2,"(1.0, 0.5)",24,24,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma,"['dor', 'ma']",slovene
+95,P+4,"(0.5, 0.5)",24,24,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma,"['dor', 'ma']",slovene
+96,M-2,"(0.5, 2.0)",24,24,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma,"['dor', 'ma']",slovene
+97,M-2,"(2.0, 1.0)",24,25,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},dor de ma blon                    de,"['dor', 'ma', 'blon']",slovene
+98,m+3,"(1.0, 0.5)",33,33,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur,['voyageur'],slovene
+99,m-3,"(0.5, 0.5)",33,33,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur,['voyageur'],slovene
+100,M-2,"(0.5, 1.0)",33,33,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur,['voyageur'],slovene
+101,P_1,"(1.0, 1.0)",33,33,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur,['voyageur'],slovene
+102,M-2,"(1.0, 1.0)",33,34,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur entends ces accords Qui,"['voyageur', 'entends', 'ces', 'accords', 'qui']",slovene
+103,M+3,"(1.0, 0.5)",34,34,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tends ces accords Qui,"['tends', 'ces', 'accords', 'qui']",slovene
+104,M-3,"(0.5, 0.5)",34,34,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tends ces accords Qui,"['tends', 'ces', 'accords', 'qui']",slovene
+105,m-2,"(0.5, 1.0)",34,34,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tends ces accords Qui,"['tends', 'ces', 'accords', 'qui']",slovene
+106,P_1,"(1.0, 1.0)",34,34,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tends ces accords Qui,"['tends', 'ces', 'accords', 'qui']",slovene
+107,M-2,"(1.0, 1.0)",34,35,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tends ces accords Qui mêlent en des,"['tends', 'ces', 'accords', 'qui', 'mêlent', 'des']",slovene
+108,M+2,"(1.0, 0.5)",35,35,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mêlent en des,"['mêlent', 'des']",slovene
+109,m+2,"(0.5, 0.5)",35,35,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mêlent en des,"['mêlent', 'des']",slovene
+110,P-4,"(0.5, 1.0)",35,35,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mêlent en des,"['mêlent', 'des']",slovene
+111,P+4,"(1.0, 1.0)",35,35,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mêlent en des,"['mêlent', 'des']",slovene
+112,P+4,"(1.0, 2.0)",35,36,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},mêlent en des rafales,"['mêlent', 'des', 'rafales']",slovene
+113,m-2,"(2.0, 1.0)",36,36,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fales,['fales'],slovene
+114,m+3,"(1.0, 0.5)",37,37,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},La voix magique et,"['voix', 'magique']",slovene
+115,m-3,"(0.5, 0.5)",37,37,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},La voix magique et,"['voix', 'magique']",slovene
+116,M-2,"(0.5, 1.0)",37,37,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},La voix magique et,"['voix', 'magique']",slovene
+117,P_1,"(1.0, 1.0)",37,37,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},La voix magique et,"['voix', 'magique']",slovene
+118,M-2,"(1.0, 1.0)",37,38,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},La voix magique et tendre des cors Et les,"['voix', 'magique', 'tendre', 'des', 'cors', 'les']",slovene
+119,M+3,"(1.0, 0.5)",38,38,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tendre des cors Et les,"['tendre', 'des', 'cors', 'les']",slovene
+120,M-3,"(0.5, 0.5)",38,38,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tendre des cors Et les,"['tendre', 'des', 'cors', 'les']",slovene
+121,m-2,"(0.5, 1.0)",38,38,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tendre des cors Et les,"['tendre', 'des', 'cors', 'les']",slovene
+122,P_1,"(1.0, 0.5)",38,38,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tendre des cors Et les,"['tendre', 'des', 'cors', 'les']",slovene
+123,P_1,"(0.5, 0.5)",38,38,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tendre des cors Et les,"['tendre', 'des', 'cors', 'les']",slovene
+124,M-2,"(0.5, 1.0)",38,39,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tendre des cors Et les harpes,"['tendre', 'des', 'cors', 'les', 'harpes']",slovene
+125,M+2,"(1.0, 0.5)",39,39,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},harpes,['harpes'],slovene
+126,m+2,"(0.5, 0.5)",39,39,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},harpes,['harpes'],slovene
+127,P-4,"(0.5, 1.0)",39,39,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},harpes,['harpes'],slovene
+128,M+6,"(1.0, 1.0)",39,39,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},harpes,['harpes'],slovene
+129,M-2,"(1.0, 2.0)",39,40,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},harpes triom phales,"['harpes', 'triom', 'phales']",slovene
+130,M-2,"(2.0, 1.0)",40,40,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, phales,['phales'],slovene
+131,P_1,"(1.0, 1.0)",41,41,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Celle qui,"['celle', 'qui']",slovene
+132,m-2,"(1.0, 1.0)",41,41,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Celle qui,"['celle', 'qui']",slovene
+133,M-2,"(1.0, 0.5)",41,41,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Celle qui,"['celle', 'qui']",slovene
+134,M-2,"(0.5, 0.5)",41,41,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Celle qui,"['celle', 'qui']",slovene
+135,M+6,"(0.5, 1.0)",41,42,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Celle qui tapparait làbas De,"['celle', 'qui', 'tapparait', 'làbas']",slovene
+136,P_1,"(1.0, 1.0)",42,42,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rait làbas De,"['rait', 'làbas']",slovene
+137,M-2,"(1.0, 1.0)",42,42,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rait làbas De,"['rait', 'làbas']",slovene
+138,P_1,"(1.0, 1.0)",42,42,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rait làbas De,"['rait', 'làbas']",slovene
+139,M-2,"(1.0, 1.0)",42,43,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rait làbas De frais glaïeuls,"['rait', 'làbas', 'frais', 'glaïeuls']",slovene
+140,M+2,"(1.0, 1.0)",43,43,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},frais glaïeuls,"['frais', 'glaïeuls']",slovene
+141,m-3,"(1.0, 1.0)",43,43,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},frais glaïeuls,"['frais', 'glaïeuls']",slovene
+142,M-2,"(1.0, 0.5)",43,43,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},frais glaïeuls,"['frais', 'glaïeuls']",slovene
+143,M-2,"(0.5, 0.5)",43,43,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},frais glaïeuls,"['frais', 'glaïeuls']",slovene
+144,M+2,"(0.5, 2.0)",43,44,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},frais glaïeuls coiffée,"['frais', 'glaïeuls', 'coiffée']",slovene
+145,P_1,"(2.0, 1.0)",44,44,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fée,['fée'],slovene
+146,P_1,"(1.0, 1.0)",45,45,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest Morgane la,"['cest', 'morgane']",slovene
+147,m-2,"(1.0, 1.0)",45,45,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest Morgane la,"['cest', 'morgane']",slovene
+148,M-2,"(1.0, 0.5)",45,45,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest Morgane la,"['cest', 'morgane']",slovene
+149,M-2,"(0.5, 0.5)",45,45,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest Morgane la,"['cest', 'morgane']",slovene
+150,M+6,"(0.5, 2.0)",45,46,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Cest Morgane la fée,"['cest', 'morgane', 'fée']",slovene
+151,m-2,"(2.0, 2.0)",46,46,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fée,['fée'],slovene
+152,m+2,"(2.0, 1.0)",46,47,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fée Ouvre lui tes deux,"['fée', 'ouvre', 'lui', 'tes', 'deux']",slovene
+153,P-4,"(1.0, 1.0)",47,47,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Ouvre lui tes deux,"['ouvre', 'lui', 'tes', 'deux']",slovene
+154,M-3,"(1.0, 1.0)",47,47,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Ouvre lui tes deux,"['ouvre', 'lui', 'tes', 'deux']",slovene
+155,M+2,"(1.0, 0.5)",47,47,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Ouvre lui tes deux,"['ouvre', 'lui', 'tes', 'deux']",slovene
+156,M-2,"(0.5, 0.5)",47,47,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Ouvre lui tes deux,"['ouvre', 'lui', 'tes', 'deux']",slovene
+157,P+5,"(0.5, 2.0)",47,48,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Ouvre lui tes deux bras,"['ouvre', 'lui', 'tes', 'deux', 'bras']",slovene
+158,P_1,"(2.0, 1.0)",48,48,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},bras,['bras'],slovene
+159,P_1,"(2.0, 0.5)",49,49,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+160,P-8,"(0.5, 0.5)",49,49,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+161,M+2,"(0.5, 0.5)",49,49,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+162,m+6,"(0.5, 0.5)",49,49,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+163,m-2,"(0.5, 1.0)",49,50,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux rien rien au monde,"['non', 'veux', 'rien', 'rien', 'au', 'monde']",slovene
+164,M-2,"(1.0, 0.5)",50,50,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+165,m-2,"(0.5, 0.5)",50,50,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+166,m+3,"(0.5, 1.0)",50,50,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+167,M-2,"(1.0, 1.0)",50,50,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+168,P+4,"(1.0, 2.0)",50,51,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde Que les yeux,"['rien', 'rien', 'au', 'monde', 'que', 'les', 'yeux']",slovene
+169,P_1,"(2.0, 0.5)",51,51,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les yeux,"['que', 'les', 'yeux']",slovene
+170,P-8,"(0.5, 0.5)",51,51,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les yeux,"['que', 'les', 'yeux']",slovene
+171,M+2,"(0.5, 0.5)",51,51,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les yeux,"['que', 'les', 'yeux']",slovene
+172,m+6,"(0.5, 0.5)",51,51,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les yeux,"['que', 'les', 'yeux']",slovene
+173,m-2,"(0.5, 1.0)",51,52,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les yeux profonds de ma blonde,"['que', 'les', 'yeux', 'profonds', 'ma', 'blonde']",slovene
+174,M-2,"(1.0, 0.5)",52,52,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fonds de ma blonde,"['fonds', 'ma', 'blonde']",slovene
+175,m-2,"(0.5, 0.5)",52,52,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fonds de ma blonde,"['fonds', 'ma', 'blonde']",slovene
+176,m+3,"(0.5, 1.0)",52,52,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fonds de ma blonde,"['fonds', 'ma', 'blonde']",slovene
+177,M-2,"(1.0, 1.0)",52,52,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fonds de ma blonde,"['fonds', 'ma', 'blonde']",slovene
+178,m+6,"(1.0, 2.0)",52,53,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fonds de ma blonde Non je ne veux,"['fonds', 'ma', 'blonde', 'non', 'veux']",slovene
+179,P_1,"(2.0, 0.5)",53,53,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+180,m-7,"(0.5, 0.5)",53,53,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+181,M+2,"(0.5, 0.5)",53,53,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+182,P+5,"(0.5, 0.5)",53,53,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+183,M-2,"(0.5, 1.0)",53,54,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux rien rien au,"['non', 'veux', 'rien', 'rien', 'au']",slovene
+184,M-2,"(1.0, 0.5)",54,54,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+185,m-2,"(0.5, 0.5)",54,54,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+186,m+3,"(0.5, 1.0)",54,54,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+187,M-2,"(1.0, 1.0)",54,54,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+188,m-2,"(1.0, 1.0)",54,55,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde Que les yeux,"['rien', 'rien', 'au', 'monde', 'que', 'les', 'yeux']",slovene
+189,M+2,"(0.5, 0.5)",55,55,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les yeux,"['que', 'les', 'yeux']",slovene
+190,m+2,"(0.5, 0.5)",55,55,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les yeux,"['que', 'les', 'yeux']",slovene
+191,M+6,"(0.5, 0.5)",55,55,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les yeux,"['que', 'les', 'yeux']",slovene
+192,m-7,"(0.5, 1.0)",55,56,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},de Que les yeux pro fonds de ma,"['que', 'les', 'yeux', 'pro', 'fonds', 'ma']",slovene
+193,M+2,"(1.0, 0.5)",56,56,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, fonds de ma,"['fonds', 'ma']",slovene
+194,P+4,"(0.5, 0.5)",56,56,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, fonds de ma,"['fonds', 'ma']",slovene
+195,M-2,"(0.5, 2.0)",56,56,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, fonds de ma,"['fonds', 'ma']",slovene
+196,M-2,"(2.0, 1.0)",56,57,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, fonds de ma blonde,"['fonds', 'ma', 'blonde']",slovene
+197,m+3,"(1.0, 0.5)",65,65,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur un,"['voyageur', 'un']",slovene
+198,m-3,"(0.5, 0.5)",65,65,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur un,"['voyageur', 'un']",slovene
+199,M-2,"(0.5, 1.0)",65,65,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur un,"['voyageur', 'un']",slovene
+200,P_1,"(1.0, 1.0)",65,65,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur un,"['voyageur', 'un']",slovene
+201,M-2,"(1.0, 1.0)",65,66,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},O voyageur un fleuve dazur Où,"['voyageur', 'un', 'fleuve', 'dazur', 'où']",slovene
+202,M+3,"(1.0, 0.5)",66,66,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fleuve dazur Où,"['fleuve', 'dazur', 'où']",slovene
+203,M-3,"(0.5, 0.5)",66,66,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fleuve dazur Où,"['fleuve', 'dazur', 'où']",slovene
+204,m-2,"(0.5, 1.0)",66,66,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fleuve dazur Où,"['fleuve', 'dazur', 'où']",slovene
+205,P_1,"(1.0, 1.0)",66,66,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fleuve dazur Où,"['fleuve', 'dazur', 'où']",slovene
+206,M-2,"(1.0, 1.0)",66,67,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},fleuve dazur Où nagent des formes,"['fleuve', 'dazur', 'où', 'nagent', 'des', 'formes']",slovene
+207,M+2,"(1.0, 0.5)",67,67,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},nagent des formes,"['nagent', 'des', 'formes']",slovene
+208,m+2,"(0.5, 0.5)",67,67,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},nagent des formes,"['nagent', 'des', 'formes']",slovene
+209,P-4,"(0.5, 1.0)",67,67,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},nagent des formes,"['nagent', 'des', 'formes']",slovene
+210,P+4,"(1.0, 1.0)",67,67,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},nagent des formes,"['nagent', 'des', 'formes']",slovene
+211,P+4,"(1.0, 2.0)",67,68,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},nagent des formes blanches,"['nagent', 'des', 'formes', 'blanches']",slovene
+212,m-2,"(2.0, 1.0)",68,68,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},blanches,['blanches'],slovene
+213,m+3,"(1.0, 0.5)",69,69,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sous les clartés du,"['sous', 'les', 'clartés', 'du']",slovene
+214,m-3,"(0.5, 0.5)",69,69,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sous les clartés du,"['sous', 'les', 'clartés', 'du']",slovene
+215,M-2,"(0.5, 1.0)",69,69,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sous les clartés du,"['sous', 'les', 'clartés', 'du']",slovene
+216,P_1,"(1.0, 1.0)",69,69,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sous les clartés du,"['sous', 'les', 'clartés', 'du']",slovene
+217,M-2,"(1.0, 1.0)",69,70,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sous les clartés du ciel sombre et pur,"['sous', 'les', 'clartés', 'du', 'ciel', 'sombre', 'pur']",slovene
+218,M+3,"(1.0, 0.5)",70,70,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},ciel sombre et pur,"['ciel', 'sombre', 'pur']",slovene
+219,M-3,"(0.5, 0.5)",70,70,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},ciel sombre et pur,"['ciel', 'sombre', 'pur']",slovene
+220,m-2,"(0.5, 1.0)",70,70,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},ciel sombre et pur,"['ciel', 'sombre', 'pur']",slovene
+221,P_1,"(1.0, 1.0)",70,70,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},ciel sombre et pur,"['ciel', 'sombre', 'pur']",slovene
+222,M-2,"(1.0, 1.0)",70,71,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},ciel sombre et pur Scintille à travers les,"['ciel', 'sombre', 'pur', 'scintille', 'travers', 'les']",slovene
+223,M+2,"(1.0, 0.5)",71,71,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tille à travers les,"['tille', 'travers', 'les']",slovene
+224,m+2,"(0.5, 0.5)",71,71,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tille à travers les,"['tille', 'travers', 'les']",slovene
+225,P-4,"(0.5, 1.0)",71,71,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tille à travers les,"['tille', 'travers', 'les']",slovene
+226,M+6,"(1.0, 1.0)",71,71,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tille à travers les,"['tille', 'travers', 'les']",slovene
+227,M-2,"(1.0, 2.0)",71,72,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},tille à travers les branches,"['tille', 'travers', 'les', 'branches']",slovene
+228,M-2,"(2.0, 1.0)",72,72,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},branches,['branches'],slovene
+229,P_1,"(1.0, 1.0)",73,73,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sur la rive où le,"['sur', 'rive', 'où']",slovene
+230,m-2,"(1.0, 1.0)",73,73,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sur la rive où le,"['sur', 'rive', 'où']",slovene
+231,M-2,"(1.0, 0.5)",73,73,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sur la rive où le,"['sur', 'rive', 'où']",slovene
+232,M-2,"(0.5, 0.5)",73,73,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sur la rive où le,"['sur', 'rive', 'où']",slovene
+233,M+6,"(0.5, 1.0)",73,74,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Sur la rive où le flot pâli En,"['sur', 'rive', 'où', 'flot', 'pâli']",slovene
+234,P_1,"(1.0, 1.0)",74,74,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},flot pâli En,"['flot', 'pâli']",slovene
+235,M-2,"(1.0, 1.0)",74,74,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},flot pâli En,"['flot', 'pâli']",slovene
+236,P_1,"(1.0, 1.0)",74,74,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},flot pâli En,"['flot', 'pâli']",slovene
+237,M-2,"(1.0, 1.0)",74,75,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},flot pâli En murmurant,"['flot', 'pâli', 'murmurant']",slovene
+238,M+2,"(1.0, 1.0)",75,75,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},murmurant,['murmurant'],slovene
+239,m-3,"(1.0, 1.0)",75,75,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},murmurant,['murmurant'],slovene
+240,M-2,"(1.0, 0.5)",75,75,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},murmurant,['murmurant'],slovene
+241,M-2,"(0.5, 0.5)",75,75,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},murmurant,['murmurant'],slovene
+242,M+2,"(0.5, 2.0)",75,76,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},murmurant déferle,"['murmurant', 'déferle']",slovene
+243,P_1,"(2.0, 1.0)",76,76,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},ferle,['ferle'],slovene
+244,P_1,"(1.0, 1.0)",77,77,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Dans des coupes de,"['dans', 'des', 'coupes']",slovene
+245,m-2,"(1.0, 1.0)",77,77,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Dans des coupes de,"['dans', 'des', 'coupes']",slovene
+246,M-2,"(1.0, 0.5)",77,77,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Dans des coupes de,"['dans', 'des', 'coupes']",slovene
+247,M-2,"(0.5, 0.5)",77,77,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Dans des coupes de,"['dans', 'des', 'coupes']",slovene
+248,M+6,"(0.5, 2.0)",77,78,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Dans des coupes de perle,"['dans', 'des', 'coupes', 'perle']",slovene
+249,m-2,"(2.0, 2.0)",78,78,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},perle,['perle'],slovene
+250,m+2,"(2.0, 1.0)",78,79,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},perle Bois la paix et,"['perle', 'bois', 'paix']",slovene
+251,P-4,"(1.0, 1.0)",79,79,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Bois la paix et,"['bois', 'paix']",slovene
+252,M-3,"(1.0, 1.0)",79,79,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Bois la paix et,"['bois', 'paix']",slovene
+253,M+2,"(1.0, 0.5)",79,79,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Bois la paix et,"['bois', 'paix']",slovene
+254,M-2,"(0.5, 0.5)",79,79,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Bois la paix et,"['bois', 'paix']",slovene
+255,P+5,"(0.5, 2.0)",79,80,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Bois la paix et loubli,"['bois', 'paix', 'loubli']",slovene
+256,P_1,"(2.0, 1.0)",80,80,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},bli,['bli'],slovene
+257,P_1,"(2.0, 0.5)",81,81,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+258,P-8,"(0.5, 0.5)",81,81,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+259,M+2,"(0.5, 0.5)",81,81,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+260,m+6,"(0.5, 0.5)",81,81,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+261,m-2,"(0.5, 1.0)",81,82,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux rien rien au monde,"['non', 'veux', 'rien', 'rien', 'au', 'monde']",slovene
+262,M-2,"(1.0, 0.5)",82,82,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+263,m-2,"(0.5, 0.5)",82,82,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+264,m+3,"(0.5, 1.0)",82,82,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+265,M-2,"(1.0, 1.0)",82,82,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde,"['rien', 'rien', 'au', 'monde']",slovene
+266,P+4,"(1.0, 2.0)",82,83,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au monde Que les chers,"['rien', 'rien', 'au', 'monde', 'que', 'les', 'chers']",slovene
+267,P_1,"(2.0, 0.5)",83,83,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les chers,"['que', 'les', 'chers']",slovene
+268,P-8,"(0.5, 0.5)",83,83,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les chers,"['que', 'les', 'chers']",slovene
+269,M+2,"(0.5, 0.5)",83,83,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les chers,"['que', 'les', 'chers']",slovene
+270,m+6,"(0.5, 0.5)",83,83,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les chers,"['que', 'les', 'chers']",slovene
+271,m-2,"(0.5, 1.0)",83,84,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Que les chers baisers de ma blonde,"['que', 'les', 'chers', 'baisers', 'ma', 'blonde']",slovene
+272,M-2,"(1.0, 0.5)",84,84,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma blonde,"['sers', 'ma', 'blonde']",slovene
+273,m-2,"(0.5, 0.5)",84,84,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma blonde,"['sers', 'ma', 'blonde']",slovene
+274,m+3,"(0.5, 1.0)",84,84,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma blonde,"['sers', 'ma', 'blonde']",slovene
+275,M-2,"(1.0, 1.0)",84,84,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma blonde,"['sers', 'ma', 'blonde']",slovene
+276,m+6,"(1.0, 2.0)",84,85,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma blonde Non je ne veux,"['sers', 'ma', 'blonde', 'non', 'veux']",slovene
+277,P_1,"(2.0, 0.5)",85,85,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+278,m-7,"(0.5, 0.5)",85,85,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+279,M+2,"(0.5, 0.5)",85,85,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+280,P+5,"(0.5, 0.5)",85,85,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux,"['non', 'veux']",slovene
+281,M-2,"(0.5, 1.0)",85,86,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},Non je ne veux rien rien au,"['non', 'veux', 'rien', 'rien', 'au']",slovene
+282,M-2,"(1.0, 0.5)",86,86,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+283,m-2,"(0.5, 0.5)",86,86,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+284,m+3,"(0.5, 1.0)",86,86,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+285,M-2,"(1.0, 1.0)",86,86,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au,"['rien', 'rien', 'au']",slovene
+286,m-2,"(1.0, 1.0)",86,87,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},rien rien au mon de Que les chers,"['rien', 'rien', 'au', 'mon', 'que', 'les', 'chers']",slovene
+287,M+2,"(0.5, 0.5)",87,87,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, de Que les chers,"['que', 'les', 'chers']",slovene
+288,m+2,"(0.5, 0.5)",87,87,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, de Que les chers,"['que', 'les', 'chers']",slovene
+289,M+6,"(0.5, 0.5)",87,87,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, de Que les chers,"['que', 'les', 'chers']",slovene
+290,m-7,"(0.5, 1.0)",87,88,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'}, de Que les chers baisers de ma,"['que', 'les', 'chers', 'baisers', 'ma']",slovene
+291,M+2,"(1.0, 0.5)",88,88,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma,"['sers', 'ma']",slovene
+292,P+4,"(0.5, 0.5)",88,88,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma,"['sers', 'ma']",slovene
+293,M-2,"(0.5, 2.0)",88,88,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma,"['sers', 'ma']",slovene
+294,M-2,"(2.0, 1.0)",88,89,20 Mélodies,"Holmès, Augusta",None,(Holmès),F major,"['d minor', 'C major', 'g minor']",m10,NO,{'4/4'},sers de ma blonde,"['sers', 'ma', 'blonde']",slovene

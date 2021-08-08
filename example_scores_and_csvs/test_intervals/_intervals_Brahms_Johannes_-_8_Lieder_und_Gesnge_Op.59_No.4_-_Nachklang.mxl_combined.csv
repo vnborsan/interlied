@@ -1,0 +1,85 @@
+,interval,duration,measure_start,measure_end,title,composer,year,lyricist,score_key_s,alternative_key(s),voice_range,meter_change,meter(s),lyric_string,lyric_tokens,lyric_language
+0,P_1,"(1.5, 0.5)",1,1,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},,[],german
+1,P_1,"(0.5, 3.0)",1,2,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Regentropfen,['regentropfen'],german
+2,M-2,"(3.0, 1.0)",2,2,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},tropfen,['tropfen'],german
+3,m+3,"(1.0, 1.0)",2,3,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},tropfen aus den,['tropfen'],german
+4,M+3,"(1.0, 1.0)",3,3,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},aus den,[],german
+5,M-2,"(1.0, 1.0)",3,3,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},aus den,[],german
+6,M-2,"(1.0, 1.0)",3,3,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},aus den,[],german
+7,m-2,"(1.0, 3.0)",3,4,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},aus den Bäumen,['bäumen'],german
+8,M-2,"(3.0, 1.0)",4,4,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Bäumen,['bäumen'],german
+9,M+2,"(1.0, 1.0)",4,5,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Bäumen fallen,"['bäumen', 'fallen']",german
+10,m+2,"(1.0, 1.0)",5,5,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},fallen,['fallen'],german
+11,P-4,"(1.0, 1.0)",5,5,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},fallen,['fallen'],german
+12,m-2,"(1.0, 1.0)",5,5,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},fallen,['fallen'],german
+13,P+4,"(1.0, 3.0)",5,6,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},fallen in das,['fallen'],german
+14,M-2,"(3.0, 1.0)",6,6,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},in das,[],german
+15,M-2,"(1.0, 3.0)",6,7,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},in das grüne,['grüne'],german
+16,m-2,"(3.0, 1.0)",7,7,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},grüne,['grüne'],german
+17,P_1,"(1.0, 2.0)",7,8,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},grüne Gras,"['grüne', 'gras']",german
+18,M-2,"(2.0, 1.0)",8,8,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Gras,['gras'],german
+19,P_1,"(2.0, 1.0)",9,9,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Tränen,['tränen'],german
+20,P_1,"(1.0, 3.0)",9,10,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Tränen meiner,['tränen'],german
+21,m-3,"(3.0, 1.0)",10,10,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},meiner,[],german
+22,m+3,"(1.0, 1.0)",10,11,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},meiner trüben,['trüben'],german
+23,M-2,"(1.0, 1.0)",11,11,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},trüben,['trüben'],german
+24,m-2,"(1.0, 1.0)",11,11,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},trüben,['trüben'],german
+25,M-2,"(1.0, 1.0)",11,11,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},trüben,['trüben'],german
+26,A+1,"(1.0, 2.0)",11,12,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},trüben Augen,"['trüben', 'augen']",german
+27,m+2,"(2.0, 1.0)",12,12,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Augen,['augen'],german
+28,P_1,"(1.5, 0.5)",13,13,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},machen,[],german
+29,m-2,"(0.5, 3.0)",13,14,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},machen mir die,[],german
+30,P_1,"(3.0, 1.0)",14,14,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die,[],german
+31,P+4,"(1.0, 3.0)",14,15,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die Wange,['wange'],german
+32,M-6,"(3.0, 1.0)",15,15,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Wange,['wange'],german
+33,m-2,"(1.0, 2.0)",15,16,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Wange nass,"['wange', 'nass']",german
+34,P_1,"(1.5, 0.5)",21,21,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Wenn die,[],german
+35,P_1,"(0.5, 3.0)",21,22,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Wenn die Sonne,['sonne'],german
+36,M-2,"(3.0, 1.0)",22,22,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Sonne,['sonne'],german
+37,M-2,"(1.0, 1.0)",22,23,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Sonne wieder,['sonne'],german
+38,M+3,"(1.0, 1.0)",23,23,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wieder,[],german
+39,M-2,"(1.0, 1.0)",23,23,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wieder,[],german
+40,M-2,"(1.0, 1.0)",23,23,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wieder,[],german
+41,P_1,"(1.0, 2.0)",23,24,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wieder scheinet,['scheinet'],german
+42,m-2,"(2.0, 1.0)",24,24,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},scheinet,['scheinet'],german
+43,P_1,"(1.5, 0.5)",25,25,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wird der,[],german
+44,P+4,"(0.5, 3.0)",25,26,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wird der Rasen,['rasen'],german
+45,A+1,"(3.0, 1.0)",26,26,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Rasen,['rasen'],german
+46,m+2,"(1.0, 1.0)",26,27,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Rasen doppelt,"['rasen', 'doppelt']",german
+47,M-3,"(1.0, 1.0)",27,27,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},doppelt,['doppelt'],german
+48,P-4,"(1.0, 1.0)",27,27,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},doppelt,['doppelt'],german
+49,M+2,"(1.0, 1.0)",27,27,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},doppelt,['doppelt'],german
+50,M+2,"(1.0, 2.0)",27,28,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},doppelt grün,"['doppelt', 'grün']",german
+51,P_1,"(2.0, 1.0)",32,32,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},doppelt,['doppelt'],german
+52,P_1,"(1.0, 3.0)",32,33,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},doppelt wird auf,['doppelt'],german
+53,M-2,"(3.0, 1.0)",33,33,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wird auf,[],german
+54,m+3,"(1.0, 1.0)",33,34,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},wird auf meinen,[],german
+55,M+3,"(1.0, 1.0)",34,34,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},meinen,[],german
+56,M-2,"(1.0, 1.0)",34,34,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},meinen,[],german
+57,M-2,"(1.0, 1.0)",34,34,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},meinen,[],german
+58,m-2,"(1.0, 3.0)",34,35,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},meinen Wangen,['wangen'],german
+59,M-2,"(3.0, 1.0)",35,35,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Wangen,['wangen'],german
+60,M+2,"(1.0, 1.0)",35,36,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Wangen mir die,['wangen'],german
+61,m+2,"(1.0, 1.0)",36,36,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die,[],german
+62,P-4,"(1.0, 1.0)",36,36,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die,[],german
+63,m-2,"(1.0, 1.0)",36,36,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die,[],german
+64,P+4,"(1.0, 1.0)",36,37,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die heisse,['heisse'],german
+65,m+6,"(1.0, 1.0)",37,37,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},heisse,['heisse'],german
+66,m-2,"(1.0, 1.0)",37,37,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},heisse,['heisse'],german
+67,m-3,"(1.0, 1.0)",37,37,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},heisse,['heisse'],german
+68,m+2,"(1.0, 1.0)",37,38,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},heisse Träne,"['heisse', 'träne']",german
+69,M-3,"(1.0, 1.0)",38,38,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Träne,['träne'],german
+70,m-2,"(1.0, 1.0)",38,38,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Träne,['träne'],german
+71,M-2,"(1.0, 1.0)",38,38,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Träne,['träne'],german
+72,M-2,"(1.0, 2.0)",38,39,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Träne glühn,"['träne', 'glühn']",german
+73,m-2,"(2.0, 1.0)",39,39,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},glühn,['glühn'],german
+74,P_1,"(2.0, 1.0)",40,40,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die,[],german
+75,m+3,"(1.0, 4.0)",40,41,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},mir die,[],german
+76,P_1,"(4.0, 1.0)",41,42,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},heisse,['heisse'],german
+77,d-3,"(1.0, 1.0)",42,42,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},sse,['sse'],german
+78,m+2,"(1.0, 1.0)",42,42,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},sse,['sse'],german
+79,P-5,"(1.0, 1.0)",42,42,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},sse,['sse'],german
+80,m+3,"(1.0, 4.0)",42,43,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},sse,['sse'],german
+81,P_1,"(4.0, 2.0)",43,44,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},Träne,['träne'],german
+82,m-2,"(2.0, 2.0)",44,44,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},ne,['ne'],german
+83,M-2,"(2.0, 2.0)",44,45,"8 Lieder und Gesänge, Op.59",Johannes Brahms,None,Klaus Groth,f# minor,"['b minor', 'A major', 'D major']",m10,NO,{'2/2'},ne glühn,"['ne', 'glühn']",german

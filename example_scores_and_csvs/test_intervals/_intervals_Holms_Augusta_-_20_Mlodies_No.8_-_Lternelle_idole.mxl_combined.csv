@@ -1,0 +1,171 @@
+,interval,duration,measure_start,measure_end,title,composer,year,lyricist,score_key_s,alternative_key(s),voice_range,meter_change,meter(s),lyric_string,lyric_tokens,lyric_language
+0,m+3,"(0.5, 0.5)",4,4,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+1,P+4,"(0.5, 0.5)",4,4,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+2,m-3,"(0.5, 0.5)",4,4,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+3,M-2,"(0.5, 0.5)",4,4,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+4,m-3,"(0.5, 0.25)",4,4,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+5,m+2,"(0.25, 0.25)",4,4,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+6,M+2,"(0.25, 1.0)",4,5,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta langueur,"['genoux', 'devant', 'langueur']",slovene
+7,P_1,"(1.0, 0.5)",5,5,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",gueur,['gueur'],slovene
+8,m+3,"(0.5, 0.5)",6,6,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+9,P+4,"(0.5, 0.5)",6,6,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+10,m-3,"(0.5, 0.5)",6,6,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+11,M-2,"(0.5, 0.5)",6,6,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+12,m-3,"(0.5, 0.25)",6,6,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+13,m+2,"(0.25, 0.25)",6,6,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+14,M+2,"(0.25, 1.0)",6,7,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta faiblesse,"['genoux', 'devant', 'faiblesse']",slovene
+15,P_1,"(1.0, 0.5)",7,7,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse,['blesse'],slovene
+16,P_1,"(0.5, 0.25)",7,7,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse,['blesse'],slovene
+17,P_1,"(0.25, 0.25)",7,7,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse,['blesse'],slovene
+18,m+2,"(0.25, 0.75)",7,8,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse Laisse moi répandre mon,"['blesse', 'laisse', 'moi', 'répandre', 'mon']",slovene
+19,P_1,"(0.75, 0.25)",8,8,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", moi répandre mon,"['moi', 'répandre', 'mon']",slovene
+20,M+3,"(0.25, 1.0)",8,8,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", moi répandre mon,"['moi', 'répandre', 'mon']",slovene
+21,M-2,"(1.0, 0.75)",8,8,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", moi répandre mon,"['moi', 'répandre', 'mon']",slovene
+22,M-2,"(0.75, 0.25)",8,8,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", moi répandre mon,"['moi', 'répandre', 'mon']",slovene
+23,A+4,"(0.25, 1.0)",8,9,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", moi répandre mon cœur A tes pieds,"['moi', 'répandre', 'mon', 'cœur', 'tes', 'pieds']",slovene
+24,M-2,"(1.0, 1.0)",9,9,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur A tes pieds,"['cœur', 'tes', 'pieds']",slovene
+25,m-2,"(1.0, 0.25)",9,9,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur A tes pieds,"['cœur', 'tes', 'pieds']",slovene
+26,M-2,"(0.25, 0.25)",9,9,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur A tes pieds,"['cœur', 'tes', 'pieds']",slovene
+27,M+2,"(0.25, 0.25)",9,9,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur A tes pieds,"['cœur', 'tes', 'pieds']",slovene
+28,m+2,"(0.25, 0.25)",9,9,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur A tes pieds,"['cœur', 'tes', 'pieds']",slovene
+29,m-6,"(0.25, 1.0)",9,10,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur A tes pieds denfant ô,"['cœur', 'tes', 'pieds', 'denfant', 'ô']",slovene
+30,P_1,"(1.0, Fraction(1, 3))",10,10,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",fant ô,"['fant', 'ô']",slovene
+31,M+2,"(Fraction(1, 3), Fraction(1, 3))",10,10,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",fant ô,"['fant', 'ô']",slovene
+32,M-3,"(Fraction(1, 3), Fraction(1, 3))",10,10,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",fant ô,"['fant', 'ô']",slovene
+33,M+6,"(Fraction(1, 3), 1.0)",10,11,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",fant ô Dé esse,"['fant', 'ô', 'dé', 'esse']",slovene
+34,M-2,"(1.0, 1.0)",11,11,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", esse,['esse'],slovene
+35,M-2,"(1.0, 1.0)",11,11,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", esse,['esse'],slovene
+36,P_1,"(1.0, 1.0)",11,12,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", esse,['esse'],slovene
+37,P_1,"(1.0, 0.5)",12,12,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",,[],slovene
+38,P_1,"(0.25, 0.25)",13,13,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Vois mon bras si fort est,"['vois', 'mon', 'bras', 'fort', 'est']",slovene
+39,P_1,"(0.25, 0.25)",13,13,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Vois mon bras si fort est,"['vois', 'mon', 'bras', 'fort', 'est']",slovene
+40,P_1,"(0.25, 0.25)",13,13,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Vois mon bras si fort est,"['vois', 'mon', 'bras', 'fort', 'est']",slovene
+41,P_1,"(0.25, 0.25)",13,13,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Vois mon bras si fort est,"['vois', 'mon', 'bras', 'fort', 'est']",slovene
+42,m+3,"(0.25, 1.0)",13,14,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Vois mon bras si fort est li é,"['vois', 'mon', 'bras', 'fort', 'est', 'li', 'é']",slovene
+43,P_1,"(1.0, 0.5)",14,14,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", é,['é'],slovene
+44,P_1,"(0.25, 0.25)",15,15,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon col se tend à la,"['mon', 'col', 'tend']",slovene
+45,P_1,"(0.25, 0.5)",15,15,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon col se tend à la,"['mon', 'col', 'tend']",slovene
+46,P_1,"(0.25, 0.5)",15,15,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon col se tend à la,"['mon', 'col', 'tend']",slovene
+47,m-2,"(0.5, 0.25)",15,15,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon col se tend à la,"['mon', 'col', 'tend']",slovene
+48,M-2,"(0.25, 0.25)",15,15,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon col se tend à la,"['mon', 'col', 'tend']",slovene
+49,P+5,"(0.25, 1.0)",15,16,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon col se tend à la chaîne,"['mon', 'col', 'tend', 'chaîne']",slovene
+50,P_1,"(1.0, 1.0)",16,16,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",chaîne,['chaîne'],slovene
+51,P_1,"(0.75, 0.25)",17,17,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon,['mon'],slovene
+52,P+4,"(0.25, 1.0)",17,18,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Et mon désir est,"['mon', 'désir', 'est']",slovene
+53,P_1,"(1.0, 0.25)",18,18,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",sir est,"['sir', 'est']",slovene
+54,P_1,"(0.5, 0.75)",18,18,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",sir est,"['sir', 'est']",slovene
+55,P_1,"(0.75, 0.25)",18,18,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",sir est,"['sir', 'est']",slovene
+56,P+4,"(0.25, 1.0)",18,19,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",sir est oublié Puisquil te,"['sir', 'est', 'oublié', 'puisquil']",slovene
+57,P_1,"(1.0, 0.5)",19,19,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",é Puisquil te,"['é', 'puisquil']",slovene
+58,P_1,"(Fraction(1, 3), Fraction(1, 3))",19,19,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",é Puisquil te,"['é', 'puisquil']",slovene
+59,M+2,"(Fraction(1, 3), Fraction(1, 3))",19,19,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",é Puisquil te,"['é', 'puisquil']",slovene
+60,M+2,"(Fraction(1, 3), 2.0)",19,20,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",é Puisquil te gêne,"['é', 'puisquil', 'gêne']",slovene
+61,P_1,"(2.0, 2.0)",20,21,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",gêne,['gêne'],slovene
+62,m-3,"(2.0, 0.5)",21,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+63,m+3,"(0.5, 0.5)",22,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+64,P+4,"(0.5, 0.5)",22,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+65,m-3,"(0.5, 0.5)",22,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+66,M-2,"(0.5, 0.5)",22,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+67,m-3,"(0.5, 0.25)",22,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+68,m+2,"(0.25, 0.25)",22,22,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta,"['genoux', 'devantta']",slovene
+69,M+2,"(0.25, 1.0)",22,23,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devantta beauté,"['genoux', 'devantta', 'beauté']",slovene
+70,P_1,"(1.0, 0.5)",23,23,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",té,['té'],slovene
+71,m+3,"(0.5, 0.5)",24,24,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton,"['genoux', 'devant', 'ton']",slovene
+72,P+4,"(0.5, 0.5)",24,24,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton,"['genoux', 'devant', 'ton']",slovene
+73,m-3,"(0.5, 0.5)",24,24,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton,"['genoux', 'devant', 'ton']",slovene
+74,M-2,"(0.5, 0.5)",24,24,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton,"['genoux', 'devant', 'ton']",slovene
+75,m-3,"(0.5, 0.25)",24,24,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton,"['genoux', 'devant', 'ton']",slovene
+76,m+2,"(0.25, 0.25)",24,24,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton,"['genoux', 'devant', 'ton']",slovene
+77,M+2,"(0.25, 1.0)",24,25,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ton mensonge Je ne,"['genoux', 'devant', 'ton', 'mensonge']",slovene
+78,P_1,"(1.0, 0.5)",25,25,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",songe Je ne,['songe'],slovene
+79,P_1,"(0.5, 0.25)",25,25,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",songe Je ne,['songe'],slovene
+80,P_1,"(0.25, 0.25)",25,25,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",songe Je ne,['songe'],slovene
+81,m+2,"(0.25, 1.0)",25,26,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",songe Je ne veux dautre,"['songe', 'veux', 'dautre']",slovene
+82,M+3,"(1.0, 0.5)",26,26,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",veux dautre,"['veux', 'dautre']",slovene
+83,P_1,"(0.5, 0.5)",26,26,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",veux dautre,"['veux', 'dautre']",slovene
+84,M-2,"(0.5, 0.75)",26,26,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",veux dautre,"['veux', 'dautre']",slovene
+85,M-2,"(0.75, 0.25)",26,26,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",veux dautre,"['veux', 'dautre']",slovene
+86,A+4,"(0.25, 1.0)",26,27,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",veux dautre volup té Que,"['veux', 'dautre', 'volup', 'té', 'que']",slovene
+87,M-2,"(1.0, 1.0)",27,27,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", té Que,"['té', 'que']",slovene
+88,m-2,"(1.0, Fraction(1, 3))",27,27,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", té Que,"['té', 'que']",slovene
+89,M-2,"(Fraction(1, 3), Fraction(1, 3))",27,27,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", té Que,"['té', 'que']",slovene
+90,m+3,"(Fraction(1, 3), Fraction(1, 3))",27,27,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", té Que,"['té', 'que']",slovene
+91,m-6,"(Fraction(1, 3), 1.5)",27,28,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", té Que lesclavage où je me,"['té', 'que', 'lesclavage', 'où']",slovene
+92,M+2,"(1.5, 0.5)",28,28,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vage où je me,"['vage', 'où']",slovene
+93,M-2,"(0.5, 0.5)",28,28,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vage où je me,"['vage', 'où']",slovene
+94,M-2,"(0.5, 0.5)",28,28,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vage où je me,"['vage', 'où']",slovene
+95,P+5,"(0.5, 1.0)",28,29,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vage où je me plonge,"['vage', 'où', 'plonge']",slovene
+96,M-2,"(1.0, 2.0)",29,29,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",plonge,['plonge'],slovene
+97,P_1,"(2.0, 1.0)",29,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",plonge Tu ne comprends pas mes,"['plonge', 'comprends', 'pas', 'mes']",slovene
+98,P_1,"(1.0, 0.25)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+99,P_1,"(0.25, 0.25)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+100,P_1,"(0.25, 0.25)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+101,P_1,"(0.25, 0.25)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+102,P_1,"(0.25, 0.5)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+103,P_1,"(0.5, 0.25)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+104,m+2,"(0.25, 0.25)",30,30,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes,"['comprends', 'pas', 'mes']",slovene
+105,M+2,"(0.25, 2.0)",30,31,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mes san glots,"['comprends', 'pas', 'mes', 'san', 'glots']",slovene
+106,P_1,"(2.0, 0.5)",31,31,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", glots,['glots'],slovene
+107,P_1,"(0.25, 0.25)",32,32,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon,"['comprends', 'pas', 'mon']",slovene
+108,P_1,"(0.25, 0.25)",32,32,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon,"['comprends', 'pas', 'mon']",slovene
+109,P_1,"(0.25, 0.25)",32,32,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon,"['comprends', 'pas', 'mon']",slovene
+110,P_1,"(0.25, 0.5)",32,32,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon,"['comprends', 'pas', 'mon']",slovene
+111,P_1,"(0.5, 0.25)",32,32,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon,"['comprends', 'pas', 'mon']",slovene
+112,m+2,"(0.25, 0.25)",32,32,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon,"['comprends', 'pas', 'mon']",slovene
+113,M+2,"(0.25, 1.0)",32,33,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Tu ne comprends pas mon martyre Et les,"['comprends', 'pas', 'mon', 'martyre', 'les']",slovene
+114,P_1,"(1.0, 0.5)",33,33,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",tyre Et les,"['tyre', 'les']",slovene
+115,P_1,"(0.75, 0.25)",33,33,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",tyre Et les,"['tyre', 'les']",slovene
+116,P+8,"(0.25, 1.5)",33,34,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",tyre Et les pleurs que je verse à,"['tyre', 'les', 'pleurs', 'que', 'verse']",slovene
+117,P-8,"(1.5, 0.25)",34,34,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",pleurs que je verse à,"['pleurs', 'que', 'verse']",slovene
+118,P_1,"(0.25, 0.25)",34,34,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",pleurs que je verse à,"['pleurs', 'que', 'verse']",slovene
+119,m+3,"(0.25, 0.75)",34,34,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",pleurs que je verse à,"['pleurs', 'que', 'verse']",slovene
+120,M+2,"(0.75, 0.25)",34,34,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",pleurs que je verse à,"['pleurs', 'que', 'verse']",slovene
+121,M-2,"(0.25, 2.0)",34,35,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",pleurs que je verse à flots,"['pleurs', 'que', 'verse', 'flots']",slovene
+122,P_1,"(2.0, 0.5)",35,35,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",flots,['flots'],slovene
+123,m-2,"(Fraction(1, 3), Fraction(1, 3))",36,36,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Te font,['font'],slovene
+124,M-2,"(Fraction(1, 3), Fraction(1, 3))",36,36,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Te font,['font'],slovene
+125,P+5,"(Fraction(1, 3), 3.0)",36,37,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",Te font,['font'],slovene
+126,P_1,"(3.0, 1.0)",37,38,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}", rire,['rire'],slovene
+127,P_1,"(1.0, 2.0)",38,38,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",re,['re'],slovene
+128,m-3,"(2.0, 0.5)",38,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",re A genoux devant ta,"['re', 'genoux', 'devant']",slovene
+129,m+3,"(0.5, 0.5)",39,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+130,P+4,"(0.5, 0.5)",39,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+131,m-3,"(0.5, 0.5)",39,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+132,M-2,"(0.5, 0.5)",39,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+133,m-3,"(0.5, 0.25)",39,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+134,m+2,"(0.25, 0.25)",39,39,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+135,M+2,"(0.25, 2.0)",39,40,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta langueur,"['genoux', 'devant', 'langueur']",slovene
+136,P_1,"(2.0, 0.5)",40,40,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",gueur,['gueur'],slovene
+137,m+3,"(0.5, 0.5)",41,41,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+138,P+4,"(0.5, 0.5)",41,41,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+139,m-3,"(0.5, 0.5)",41,41,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+140,M-2,"(0.5, 0.5)",41,41,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+141,m-3,"(0.5, 0.25)",41,41,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+142,m+2,"(0.25, 0.25)",41,41,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta,"['genoux', 'devant']",slovene
+143,M+2,"(0.25, 1.0)",41,42,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",A genoux devant ta faiblesse Te,"['genoux', 'devant', 'faiblesse']",slovene
+144,P_1,"(1.0, 0.5)",42,42,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse Te,['blesse'],slovene
+145,P_1,"(0.75, 0.25)",42,42,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse Te,['blesse'],slovene
+146,M+2,"(0.25, 0.75)",42,43,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",blesse Te livrant mon âme et mon,"['blesse', 'livrant', 'mon', 'âme', 'mon']",slovene
+147,P_1,"(0.75, 0.25)",43,43,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vrant mon âme et mon,"['vrant', 'mon', 'âme', 'mon']",slovene
+148,m+3,"(0.25, 1.0)",43,43,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vrant mon âme et mon,"['vrant', 'mon', 'âme', 'mon']",slovene
+149,m-2,"(1.0, 0.5)",43,43,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vrant mon âme et mon,"['vrant', 'mon', 'âme', 'mon']",slovene
+150,m+2,"(0.5, 0.5)",43,43,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vrant mon âme et mon,"['vrant', 'mon', 'âme', 'mon']",slovene
+151,P+5,"(0.5, 1.0)",43,44,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",vrant mon âme et mon cœur Laissemoi,"['vrant', 'mon', 'âme', 'mon', 'cœur', 'laissemoi']",slovene
+152,m-3,"(1.0, 1.0)",44,44,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur Laissemoi,"['cœur', 'laissemoi']",slovene
+153,M-2,"(1.0, 0.25)",44,44,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur Laissemoi,"['cœur', 'laissemoi']",slovene
+154,M-2,"(0.25, 0.25)",44,44,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur Laissemoi,"['cœur', 'laissemoi']",slovene
+155,P-4,"(0.25, 0.25)",44,44,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur Laissemoi,"['cœur', 'laissemoi']",slovene
+156,m-3,"(0.25, 0.25)",44,44,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur Laissemoi,"['cœur', 'laissemoi']",slovene
+157,P+4,"(0.25, 2.0)",44,45,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",cœur Laissemoi mourir Laissemoi,"['cœur', 'laissemoi', 'mourir', 'laissemoi']",slovene
+158,P_1,"(2.0, 0.25)",45,45,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir Laissemoi,"['rir', 'laissemoi']",slovene
+159,M+2,"(0.25, 0.25)",45,45,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir Laissemoi,"['rir', 'laissemoi']",slovene
+160,m+2,"(0.25, 0.25)",45,45,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir Laissemoi,"['rir', 'laissemoi']",slovene
+161,m-3,"(0.25, 0.25)",45,45,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir Laissemoi,"['rir', 'laissemoi']",slovene
+162,P+5,"(0.25, 1.0)",45,46,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir Laissemoi mourir ô,"['rir', 'laissemoi', 'mourir', 'ô']",slovene
+163,M-2,"(1.0, 1.0)",46,46,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir ô,"['rir', 'ô']",slovene
+164,m-7,"(1.0, Fraction(1, 3))",46,46,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir ô,"['rir', 'ô']",slovene
+165,M+2,"(Fraction(1, 3), Fraction(1, 3))",46,46,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir ô,"['rir', 'ô']",slovene
+166,M-3,"(Fraction(1, 3), Fraction(1, 3))",46,46,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir ô,"['rir', 'ô']",slovene
+167,P+5,"(Fraction(1, 3), 1.0)",46,47,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",rir ô,"['rir', 'ô']",slovene
+168,M+2,"(1.0, 2.0)",47,47,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",,[],slovene
+169,m+2,"(2.0, 1.0)",47,48,20 Mélodies,Augusta Mary Holmès,None,(Composer),D major,"['G major', 'e minor', 'a minor']",P12,YES,"{'3/4', '2/4'}",es se,['es'],slovene

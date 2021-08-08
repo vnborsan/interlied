@@ -1,0 +1,150 @@
+,interval,duration,measure_start,measure_end,title,composer,year,lyricist,score_key_s,alternative_key(s),voice_range,meter_change,meter(s),lyric_string,lyric_tokens,lyric_language
+0,m+6,"(1.0, 2.0)",5,6,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Oft denk ich,"['oft', 'denk']",german
+1,P_1,"(2.0, 2.0)",6,6,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",denk ich,['denk'],german
+2,m-2,"(1.0, 1.0)",7,7,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sie sind nur,[],german
+3,M-2,"(1.0, 1.0)",7,7,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sie sind nur,[],german
+4,m-2,"(1.0, 1.0)",7,8,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sie sind nur ausgegangen,['ausgegangen'],german
+5,m+2,"(1.0, 1.0)",8,8,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+6,M+2,"(1.0, 2.0)",8,8,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+7,P-5,"(2.0, 1.0)",8,8,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+8,m+6,"(1.0, 2.0)",9,10,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Bald werden sie,['bald'],german
+9,P_1,"(2.0, 1.0)",10,10,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden sie,[],german
+10,P_1,"(1.0, 1.0)",10,10,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden sie,[],german
+11,m-2,"(1.0, 1.0)",10,11,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden sie wieder nach,[],german
+12,M-2,"(1.0, 1.0)",11,11,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach,[],german
+13,m+7,"(1.0, 1.0)",11,11,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach,[],german
+14,M-2,"(1.0, 1.0)",11,11,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach,[],german
+15,m-2,"(1.0, 1.0)",11,12,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach Hause,['hause'],german
+16,M-2,"(1.0, 1.0)",12,12,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause,['hause'],german
+17,M-2,"(1.0, 1.0)",12,12,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause,['hause'],german
+18,M+2,"(1.0, 1.0)",12,12,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause,['hause'],german
+19,M+2,"(1.0, 2.0)",12,13,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause gelangen,"['hause', 'gelangen']",german
+20,P_1,"(2.0, 1.0)",13,13,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",langen,['langen'],german
+21,M+2,"(1.0, 2.0)",14,15,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Der Tag ist,['tag'],german
+22,m+3,"(2.0, 1.0)",15,15,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+23,m-2,"(1.0, 1.0)",15,15,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+24,M-2,"(1.0, 2.0)",15,16,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist schön,"['tag', 'schön']",german
+25,M-2,"(2.0, 2.0)",16,16,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön,['schön'],german
+26,m-2,"(2.0, 1.0)",16,17,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön O sei nicht,"['schön', 'o', 'sei']",german
+27,m+3,"(1.0, 1.0)",17,17,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht,"['o', 'sei']",german
+28,m+3,"(1.0, 1.0)",17,17,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht,"['o', 'sei']",german
+29,m+3,"(1.0, 1.0)",17,17,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht,"['o', 'sei']",german
+30,m-2,"(1.0, 1.0)",17,18,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht bang Sie,"['o', 'sei', 'bang']",german
+31,m-3,"(1.0, 1.0)",18,18,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang Sie,['bang'],german
+32,M-2,"(1.0, 1.0)",18,18,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang Sie,['bang'],german
+33,M-3,"(1.0, 1.0)",18,18,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang Sie,['bang'],german
+34,m-2,"(1.0, 2.0)",18,19,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang Sie machen nur,['bang'],german
+35,m-2,"(2.0, 1.0)",19,19,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",machen nur,[],german
+36,m+2,"(1.0, 1.0)",19,19,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",machen nur,[],german
+37,m-2,"(1.0, 1.0)",19,20,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",machen nur einen weiten,['weiten'],german
+38,m+2,"(1.0, 1.0)",20,20,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",einen weiten,['weiten'],german
+39,P+5,"(1.0, 1.0)",20,20,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",einen weiten,['weiten'],german
+40,M-2,"(1.0, 1.0)",20,20,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",einen weiten,['weiten'],german
+41,M-2,"(1.0, 1.0)",20,21,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",einen weiten Gang,"['weiten', 'gang']",german
+42,M-2,"(1.0, 1.0)",21,21,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Gang,['gang'],german
+43,d-4,"(1.0, 1.0)",21,21,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Gang,['gang'],german
+44,m+6,"(1.0, 4.0)",23,24,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Jawohl,['jawohl'],german
+45,m-2,"(1.0, 1.0)",25,25,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sie sind nur,[],german
+46,M-2,"(1.0, 1.0)",25,25,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sie sind nur,[],german
+47,m-2,"(1.0, 1.0)",25,26,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sie sind nur ausgegangen,['ausgegangen'],german
+48,m+2,"(1.0, 1.0)",26,26,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+49,M+2,"(1.0, 2.0)",26,26,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+50,P-5,"(2.0, 1.0)",26,26,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+51,m+6,"(1.0, 2.0)",27,28,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",und werden,[],german
+52,P_1,"(2.0, 2.0)",28,28,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden,[],german
+53,m-2,"(2.0, 1.0)",28,29,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden jetzt nach,[],german
+54,M-2,"(1.0, 1.0)",29,29,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jetzt nach,[],german
+55,m+7,"(1.0, 1.0)",29,29,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jetzt nach,[],german
+56,M-2,"(1.0, 1.0)",29,29,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jetzt nach,[],german
+57,m-2,"(1.0, 1.0)",29,30,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jetzt nach Hause,['hause'],german
+58,M-2,"(1.0, 1.0)",30,30,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause,['hause'],german
+59,M-2,"(1.0, 1.0)",30,30,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause,['hause'],german
+60,M+2,"(1.0, 1.0)",30,30,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause,['hause'],german
+61,M+2,"(1.0, 2.0)",30,31,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Hause gelangen,"['hause', 'gelangen']",german
+62,P_1,"(2.0, 1.0)",31,31,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",langen,['langen'],german
+63,m+3,"(2.0, 1.0)",36,36,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht,"['o', 'sei']",german
+64,m-2,"(1.0, 1.0)",36,36,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht,"['o', 'sei']",german
+65,M-2,"(1.0, 2.0)",36,37,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",O sei nicht bang der,"['o', 'sei', 'bang']",german
+66,M-2,"(2.0, 1.0)",37,37,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang der,['bang'],german
+67,P_1,"(1.0, 1.0)",37,37,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang der,['bang'],german
+68,m-2,"(1.0, 1.0)",37,38,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",bang der Tag ist,"['bang', 'tag']",german
+69,m+3,"(1.0, 1.0)",38,38,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+70,m+3,"(1.0, 1.0)",38,38,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+71,m+3,"(1.0, 1.0)",38,38,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+72,m-2,"(1.0, 1.0)",38,39,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist schön Sie,"['tag', 'schön']",german
+73,m-3,"(1.0, 1.0)",39,39,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön Sie,['schön'],german
+74,M-2,"(1.0, 1.0)",39,39,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön Sie,['schön'],german
+75,M-3,"(1.0, 1.0)",39,39,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön Sie,['schön'],german
+76,m-2,"(1.0, 2.0)",39,40,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön Sie machen,['schön'],german
+77,m-2,"(2.0, 1.0)",40,40,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",machen,[],german
+78,m+2,"(1.0, 1.0)",40,40,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",machen,[],german
+79,m-2,"(1.0, 1.0)",40,41,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",machen nur den Gang zu,['gang'],german
+80,m+2,"(1.0, 1.0)",41,41,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nur den Gang zu,['gang'],german
+81,P+5,"(1.0, 1.0)",41,41,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nur den Gang zu,['gang'],german
+82,M-2,"(1.0, 1.0)",41,41,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nur den Gang zu,['gang'],german
+83,M-2,"(1.0, 1.0)",41,42,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nur den Gang zu jenen,['gang'],german
+84,M-2,"(1.0, 1.0)",42,42,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen,[],german
+85,d-4,"(1.0, 1.0)",42,42,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen,[],german
+86,m+2,"(1.0, 1.0)",42,42,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen,[],german
+87,P+5,"(1.0, 1.0)",42,43,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen Höhn,['höhn'],german
+88,M-2,"(1.0, 1.0)",43,43,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Höhn,['höhn'],german
+89,d-4,"(1.0, 1.0)",43,43,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Höhn,['höhn'],german
+90,P_1,"(1.0, 1.0)",46,47,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Sie sind uns nur,[],german
+91,P_1,"(1.0, 1.0)",47,47,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sind uns nur,[],german
+92,m-2,"(1.0, 1.0)",47,47,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sind uns nur,[],german
+93,M-2,"(1.0, 1.0)",47,47,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sind uns nur,[],german
+94,m-2,"(1.0, 1.0)",47,48,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",sind uns nur,[],german
+95,m+2,"(1.0, 1.0)",48,48,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",,[],german
+96,M+2,"(1.0, 2.0)",48,48,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",,[],german
+97,P_1,"(2.0, 2.0)",48,49,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ausgegangen,['ausgegangen'],german
+98,P-5,"(2.0, 1.0)",49,49,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",gen,['gen'],german
+99,m+6,"(1.0, 2.0)",50,51,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",und werden nicht,[],german
+100,P_1,"(2.0, 1.0)",51,51,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden nicht,[],german
+101,P_1,"(1.0, 1.0)",51,51,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden nicht,[],german
+102,m-2,"(1.0, 1.0)",51,52,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",werden nicht wieder nach,[],german
+103,M-2,"(1.0, 1.0)",52,52,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach,[],german
+104,m+7,"(1.0, 1.0)",52,52,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach,[],german
+105,M-2,"(1.0, 1.0)",52,52,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach,[],german
+106,m-2,"(1.0, 1.0)",52,53,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",wieder nach Haus,['haus'],german
+107,M-2,"(1.0, 1.0)",53,53,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Haus,['haus'],german
+108,M-2,"(1.0, 3.0)",53,53,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Haus,['haus'],german
+109,M+2,"(3.0, 1.0)",53,53,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Haus,['haus'],german
+110,M+2,"(1.0, 2.0)",53,54,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Haus verlangen,"['haus', 'verlangen']",german
+111,P_1,"(2.0, 1.0)",54,54,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",langen,['langen'],german
+112,M+3,"(1.0, 2.0)",58,59,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Wir holen sie,['holen'],german
+113,m+3,"(2.0, 1.0)",59,59,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",holen sie,['holen'],german
+114,m-2,"(1.0, 1.0)",59,59,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",holen sie,['holen'],german
+115,M-2,"(1.0, 2.0)",59,60,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",holen sie ein,['holen'],german
+116,M-2,"(2.0, 2.0)",60,60,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ein,[],german
+117,m-2,"(2.0, 1.0)",60,61,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",ein auf jenen,[],german
+118,m+3,"(1.0, 1.0)",61,61,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",auf jenen,[],german
+119,m+3,"(1.0, 1.0)",61,61,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",auf jenen,[],german
+120,m+3,"(1.0, 1.0)",61,61,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",auf jenen,[],german
+121,m-2,"(1.0, 1.0)",61,62,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",auf jenen Höhn Im,['höhn'],german
+122,m-3,"(1.0, 1.0)",62,62,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Höhn Im,['höhn'],german
+123,M-2,"(1.0, 1.0)",62,62,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Höhn Im,['höhn'],german
+124,M-3,"(1.0, 1.0)",62,62,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Höhn Im,['höhn'],german
+125,m-2,"(1.0, 2.0)",62,63,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Höhn Im,['höhn'],german
+126,m-2,"(2.0, 1.0)",63,63,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",,[],german
+127,m+2,"(1.0, 1.0)",63,63,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",,[],german
+128,m-2,"(1.0, 1.0)",63,64,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Sonnen,['sonnen'],german
+129,m+2,"(1.0, 1.0)",64,64,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nen,['nen'],german
+130,P+5,"(1.0, 1.0)",64,64,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nen,['nen'],german
+131,M-2,"(1.0, 1.0)",64,64,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nen,['nen'],german
+132,M-2,"(1.0, 1.0)",64,65,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",nen schein Der,"['nen', 'schein']",german
+133,M-2,"(1.0, 1.0)",65,65,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schein Der,['schein'],german
+134,d-4,"(1.0, 1.0)",65,65,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schein Der,['schein'],german
+135,m+2,"(1.0, 1.0)",65,65,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schein Der,['schein'],german
+136,d+5,"(1.0, 1.0)",65,66,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schein Der Tag ist,"['schein', 'tag']",german
+137,m-2,"(1.0, 1.0)",66,66,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+138,d-4,"(1.0, 1.0)",66,66,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+139,m+2,"(1.0, 1.0)",66,66,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist,['tag'],german
+140,P+5,"(1.0, 1.0)",66,67,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",Tag ist schön auf,"['tag', 'schön']",german
+141,M-2,"(1.0, 1.0)",67,67,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön auf,['schön'],german
+142,P-4,"(1.0, 1.0)",67,67,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön auf,['schön'],german
+143,m+2,"(1.0, 1.0)",67,67,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön auf,['schön'],german
+144,M+6,"(1.0, 1.0)",67,68,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",schön auf jenen,['schön'],german
+145,M-2,"(1.0, 1.0)",68,68,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen,[],german
+146,m-2,"(1.0, 1.0)",68,68,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen,[],german
+147,M-2,"(1.0, 1.0)",68,68,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen,[],german
+148,M-2,"(1.0, 4.0)",68,69,Kindertotenlieder,Gustav Mahler,None,Friedrich Rückert,e- minor,"['E- major', 'F# major', 'b- minor']",m13,YES,"{'2/2', '3/2'}",jenen Höhn,['höhn'],german
