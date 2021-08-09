@@ -27,7 +27,23 @@ To use this option, install jupyter notebook (https://jupyter.org/install). The 
 If you do not wish to interact with code, simply download the interface part above, enter the folder through terminal / prompt command and then run "python interlied_interface.py".
 
 -------
-## 3. PACKAGE INTRODUCTION:
+
+## 3. DATA PREPARATION:
+
+Although the tools are made to read a variety of different musicXML files, it must be noted that non-organised and not well prepared data will cause issues.
+
+Below, find some pointers on where to pay extra attention when preparing your corpus.
+1. All files should be converted to musicXML formats ONLY. Sibelius original format, MEI and other formats are not readable by these tools.
+2. Most of music notational softwares (Musescore, Finale, Sibelius) offer an option of filling out all different types of information about the score. When it is converted to musicXML (if you use another format first), please check if it translated the fields correctly. The InterLied can so far read the fields of composer, title, lyricist and lyric (but many others can easily be added if you wish to do so, so fill out as much information as you can gather per score).
+3. If there are multiple composers, titles or lyricists, my method was to separate them by this symbol ";" (e.g., Mozart; Beethoven). However, you can apply your own rule to this - but note that you must be consistent with the chosen method throughout your entire corpus, as it will be easier for you to adapt it.
+4. Parts: When it comes to parts, InterLied's algorithms are pre-set to reading part[0], where they expect a single voice music line (no chords, etc.) to be stored in the first part. Should your single voice line fall under another part, please adjust this in the scripts. You can also analyse multiple lines of a single score, by adapting the number of the part each time (for example, if you chose to analyse all four of the SATB voices, run the code 4 times by changing x in the part[x]).
+5. InterLied CANNOT analyse multiple voice streams. 
+6. If some data was misread, change it manually in the output csv files you gather.
+7. "year" parameter always remains as "None" and always requires a manual input as it can indicate various things (from the date of manuscript, first edition, the chosen edition, composer's date of birth etc.), which may be confusing for it to be generalised. Thus, each user is allowed to define this parameter as they please.
+
+
+-------
+## 4. PACKAGE INTRODUCTION:
 
 ### CONTENT OVERVIEW:
 - interface folder: Includes all neccessary codes to run GUI.
