@@ -32,7 +32,6 @@ import re
 
 
 def interlied_pitch_plot(mxl):
-    from music21 import*
 
     """
 This is one of the interlied plot functions that operates under music21 pianoroll and pitch plot visualisation.
