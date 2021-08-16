@@ -7,13 +7,14 @@ notebook. All parameters are described in the notebook itself, thus, in order to
 ------
 ## 1. INSTALL DEPENDENCIES:
 
-To use GUI or the notebook, first install all prerequired dependencies. You can do that automatically by opening terminal (Linux / Mac OS) or prompt command (Windows) and type in:
+To use GUI or the notebook, first install all prerequired dependencies. You can do that automatically by opening terminal (Linux / Mac OS) or prompt command (NOT SHELL!) (Windows) and type in:
  "cd your/path/to/interface/Interlied_1.0"
 
 When you successfully enter the folder, type this command into terminal: 
 "python interlied_dependencies.py"
 
 If you run into some errors, install the required packages manually by following instructions in the INTERLIED_USER_MANUAL.
+So far, the errors on different computers showed difficulties installing pandastable (manual command: pip install pandastable) and pyoperators (manual command: pip install pyoperators).
 
 ------
 ## 2. ACCESS THE INTERLIED TOOLS:
