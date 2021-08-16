@@ -14,7 +14,8 @@ When you successfully enter the folder, type this command into terminal:
 "python interlied_dependencies.py"
 
 If you run into some errors, install the required packages manually by following instructions in the INTERLIED_USER_MANUAL.
-So far, the errors on different computers showed difficulties installing pandastable (manual command: pip install pandastable) and pyoperators (manual command: pip install pyoperators).
+
+*So far, the errors on different computers showed difficulties installing pandastable (manual command: pip install pandastable) and pyoperators (manual command: pip install pyoperators).*
 
 ------
 ## 2. ACCESS THE INTERLIED TOOLS:
