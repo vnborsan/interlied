@@ -30,7 +30,10 @@ from interiled_explore_lyric_only import lyric_only
 #BASE STUFF
 
 base = Tk()
-base.title("INTERLIED - START MENU")
+base.title("INTERLIED")
+p1 = PhotoImage(file = 'interlied_music.png')
+base.iconphoto(False, p1)
+
 # H V
 base.geometry("545x360")
 base.configure(bg='#EBDDDC')
