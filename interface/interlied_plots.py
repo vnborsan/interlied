@@ -65,7 +65,7 @@ This is one of the interlied plot functions that explores frequency of keys in a
         
     name=os.path.basename(csv)
     grams=pd.read_csv(csv)
-    return grams[(str(q))].value_counts()[:10].plot.bar(color='lime', title="Top 10 "+str(q)+" values in "+str(name))
+    return grams[(str(q))].value_counts()[:20].plot.bar(color='lime', title="Top 20 "+str(q)+" values in "+str(name))
 
 ########################################################################################################################
 
