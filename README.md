@@ -114,7 +114,7 @@ There are four types of plots.
 It realises the music21 score plot in the form of piano roll and pitch representation. It requires a single musicXML score to run and returns two colourful plots, which can be, as any other plots in this sub-chapter, downloaded onto the user’s computer. As the music21 presents a larger issue to be incorporated into the interface, this plot is for now only accessible through the Jupyter notebook. 
 
 ### *2. interlied_top_10_plot:*
-It accepts any type of csv and a query, which should be the name of one column in the chosen csv. The algorithm returns a plot of ten most frequently fully repeated elements in that query and csv.
+It accepts any type of csv and a query, which should be the name of one column in the chosen csv. The algorithm returns a plot of ten most frequently fully repeated elements in that query and csv. To get more accurate representation results, the code in GUI also saves a txt file with the exact values of the top 10.
 
 ### *3. interlied_word_freq_q_plot:* 
 It takes one csv (or directly the pandas data frame if we slightly modify the code) and two queries. Its pre-set function accepts a type of interval (e.g., M+3) as the query 1 and a score’s title as query 2. Based on the user’s input it delivers a plot of word frequency of all tokens that appear in the combination with the queries. Mind that this code is very easily modified and can explore word tokens through other parameters as well, replacing the ‘interval’ and ‘title’ with desired alternatives. 
