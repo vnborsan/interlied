@@ -24,7 +24,8 @@ import matplotlib
 import matplotlib.pyplot as plt
 from pathlib import Path
 from tkinter.messagebox import showinfo
-from interlied_explore_intervals_patterns import intervals_lyric
+from interlied_explore_intervals import intervals_lyric
+from interlied_explore_patterns import patterns_lyric
 from interiled_explore_lyric_only import lyric_only
 
 #BASE STUFF
@@ -286,30 +287,36 @@ def explore_corpus():
 	b_f=font.Font(family='Courier', size = 33)
 	exp =Tk()
 	exp.title("EXPLORE CORPUS")
-	exp.geometry("530x200")
+	exp.geometry("410x250")
 	exp.configure(bg='#C0FF9A')
 	
 #FUNCTIONS
 	def run_intervals_lyic():
-	        return intervals_lyric()
+		return intervals_lyric()
+
+	def run_patterns_lyric():
+		return patterns_lyric()
 
 	def run_lyric_only():
-	        return lyric_only()
+		return lyric_only()
 
 #Label
 	label=Label(exp, text="Explore Your Corpus", font=('Helvetica', '20', 'bold'))
 	label.grid(row=1,rowspan=2, column=0, columnspan=4, padx=5, pady=5)
 
 # BUTTONS
-	first_btn = Button(exp, text=" Intervals or Patterns & Lyric", font=('Helvetica', '18', 'bold'), command=run_intervals_lyic)
+	first_btn = Button(exp, text=" Intervals", font=('Helvetica', '18', 'bold'), command=run_intervals_lyic)
 	first_btn.grid(row=6, column=0, rowspan=1, columnspan=2, pady=10, padx=10, ipadx=120)
-	
-	second_btn = Button(exp, text='Lyric Only', font=('Helvetica', '18', 'bold'), command=run_lyric_only)
+
+	second_btn = Button(exp, text=" Patterns", font=('Helvetica', '18', 'bold'), command=run_patterns_lyric)
 	second_btn.grid(row=9, column=0, rowspan=1, columnspan=2, pady=10, padx=10, ipadx=120)
+	
+	third_btn = Button(exp, text='Lyric', font=('Helvetica', '18', 'bold'), command=run_lyric_only)
+	third_btn.grid(row=12, column=0, rowspan=1, columnspan=2, pady=10, padx=10, ipadx=120)
 
 
-	exit_btn = Button(exp, text = "Exit",font=('Helvetica', '15', 'bold'), command = exp.destroy) 
-	exit_btn.grid(row=11, rowspan=1, column=0, columnspan=3, padx=10, pady=10)
+	exit_btn = Button(exp, text = "Exit",font=('Helvetica', '16', 'bold'), command = exp.destroy) 
+	exit_btn.grid(row=14, rowspan=1, column=0, columnspan=3, padx=10, pady=10)
 
 	exp.mainloop()
 
