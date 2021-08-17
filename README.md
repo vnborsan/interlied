@@ -146,7 +146,7 @@ It explores the relationship between lyric, rhythmic and melodic patterns, secon
 ### *4. interlied_words_count*
 This funcion requires a single lyric csv file path as an input and computes the word instances per score, returning a dataframe with composer, title, key and most common words per row (e.g., score).
 
-![Screenshot 2021-08-07 at 16 50 55](https://user-images.githubusercontent.com/76003382/128604197-f707101c-2a9e-4992-9873-fd066da4e40c.png)
+![Screenshot 2021-08-17 at 16 25 57](https://user-images.githubusercontent.com/76003382/129744511-49c5f51f-e2b7-4bd0-9cba-e6fe119d89b0.png)
 
 
 -------
