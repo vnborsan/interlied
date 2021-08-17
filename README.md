@@ -110,7 +110,7 @@ The [interlied_lyric] function includes less meta and musical data, but rather f
 
 There are four types of plots. 
 
-*If you wish to explore the whole corpus and not separate scores, I suggest you merge your csvs. This is one of the ways on how to do it computationally: https://serp.co/blog/combine-merge-csv-files-mac/. You can, ofcourse, also do it manually, but it will be a very time consuming process.*
+*If you wish to explore the whole corpus and not separate scores, I suggest you merge your csvs. This is one of the ways on how to do it computationally: https://extendsclass.com/merge-csv.html or https://serp.co/blog/combine-merge-csv-files-mac/. You can, ofcourse, also do it manually, but it will be a very time consuming process.*
 
 ### *1. interlied_pitch_plot:*
 It realises the music21 score plot in the form of piano roll and pitch representation. It requires a single musicXML score to run and returns two colourful plots, which can be, as any other plots in this sub-chapter, downloaded onto the user’s computer. As the music21 presents a larger issue to be incorporated into the interface, this plot is for now only accessible through the Jupyter notebook. 
