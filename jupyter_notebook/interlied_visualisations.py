@@ -25,13 +25,13 @@ import operator
 from operator import itemgetter
 import os
 import random
-import re 
+import re
 import string
 import warnings
 warnings.simplefilter('ignore')
 
 def interlied_pitch_plot(mxl):
-    
+
     """
 This is one of the interlied plot functions that operates under music21 pianoroll and pitch plot visualisation.
 
@@ -63,7 +63,7 @@ def interlied_int_explore_lyric_token(csv_path, c_name, l_entry, intr_entry):
         - Output: All refined entries (in text).
 
     """
-    
+
     instance=0
     df=pd.read_csv(csv_path)
     for i,r in df.iterrows():
@@ -72,12 +72,12 @@ def interlied_int_explore_lyric_token(csv_path, c_name, l_entry, intr_entry):
         itr=r["interval"]
         lyrc=r["lyric_tokens"]
         cmps=r["composer"]
-        
+
         #INPUTS
         c= str(c_name)
         q = str(l_entry)
         intr=str(intr_entry)
-        
+
         if (itr == intr) and (q in lyrc) and (c in cmps):
             instance=instance+1
             print("**INSTANCE NUMBER",instance)
@@ -85,28 +85,33 @@ def interlied_int_explore_lyric_token(csv_path, c_name, l_entry, intr_entry):
         else:
             continue
     print("Done.")
-    
+
 ######################################################################################################################
 
 def interlied_top_10_plot(csv,q):
     """
-    This is one of the interlied plot functions that explores frequency of keys in a single column query searches, for example composer+composer name and interval.
+This is one of the interlied plot functions that explores frequency of keys in a single column query searches, for example composer+composer name and interval.
 
-    - Input1: path to csv dataframe
-    - Input2: column name, e.g. "composer"
+- Input1: path to csv dataframe
+- Input2: column name, e.g. "composer"
 
-    - Output: Plot of key frequency per chosen column.
+- Output: Plot of key frequency per chosen column.
 
     """
-        
+
     name=os.path.basename(csv)
     grams=pd.read_csv(csv)
-    return grams[(str(q))].value_counts()[:10].plot.bar(color='lime', title="Top 10 "+str(q)+" values in "+str(name))
+    y=grams[(str(q))].value_counts()[:10]
+    with open("plot_outputs/Output"+str(name)+".txt", "w") as text_file:
+        text_file.write(str(y))
+    print(y)
+
+    return y.plot.bar(color='lime',title="Top 10 "+str(q)+" values in "+str(name))
 
 ########################################################################################################################
 
 def interlied_word_freq_q_plot(csv, q1, q2): #Plot word frequency per certain interval in certain score.
-    
+
     """
 This is one of the interlied plot functions that explores frequency of word tokens by one query search, for example composer+composer name.
 
@@ -117,18 +122,27 @@ This is one of the interlied plot functions that explores frequency of word toke
 - Output: Plot of word frequency per chosen keywords.
 
     """
-    
-    df=pd.read_csv(csv)
-    q1=str(q1)
-    q2=str(q2)
-    
-    m=df[df[str(q1)]==str(q2)]
+    try:
+        df=pd.read_csv(csv)
+        q1=str(q1)
+        q2=str(q2)
 
-    for xy in m.iterrows():
+        m=df[df[str(q1)] == str(q2)]
+
         wrds=[]
-        for w in m['lyric_tokens']:
-            wrds.append(str(w))
-        pd.Series(wrds).value_counts().sort_values(ascending=True).plot(kind = 'barh', title='Words: '+str(q1)+"_"+str(q2))
+        long_word=""
+
+
+        for xy in m.lyric_tokens:
+            long_word+=" "+str(xy)
+
+    except Exception as e:
+        print(e)
+
+    wrds=re.findall(r'\w+', long_word)
+    print (wrds)
+
+    pd.Series(wrds).value_counts()[:10].sort_values(ascending=True).plot(kind = 'barh', title='Words: '+str(q1)+"_"+str(q2))
 
 
 ########################################################################################################################
@@ -147,7 +161,7 @@ This is one of the interlied plot functions that explores frequency of word toke
 
     """
     df_lyric=pd.read_csv(csv)
-    
+
     chosen_key_1=str(chosen_key_1)
     key_1=str(key_1)
     chosen_key_2=str(chosen_key_2)
@@ -159,7 +173,7 @@ This is one of the interlied plot functions that explores frequency of word toke
     temp=temp[temp[chosen_key_2]==key_2] #.iloc[:,-2:]
 
     allWords=""
-    
+
     for i in temp.lyric_tokens:
         allWords+=str(i).replace('[','').replace(']',', ')
     wd = collections.Counter(re.split(r"',",allWords)).most_common(200)
@@ -177,4 +191,4 @@ This is one of the interlied plot functions that explores frequency of word toke
     wrds_df=pd.DataFrame(wrds_dict.items(), columns=['word', 'frequency'])
     print("The frequency of words in "+chosen_key_1+": _"+key_1+"_ & "+chosen_key_2+": _"+key_2)
     w_plt=wrds_df.head(10)
-    w_plt.plot(kind='bar',x='word',y='frequency', color="#BAE682", title="The frequency of words in "+str(chosen_key_1)+": _"+str(key_1)+"_ & "+str(chosen_key_2)+": _"+str(key_2)+"_")    
+    w_plt.plot(kind='bar',x='word',y='frequency', color="#BAE682", title="The frequency of words in "+str(chosen_key_1)+": _"+str(key_1)+"_ & "+str(chosen_key_2)+": _"+str(key_2)+"_")
