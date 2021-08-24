@@ -225,18 +225,23 @@ def interlied_intervals(path, lang):
                     s_lyric_lower_list=[]
 
                     #Delete unneccessary symbols and make all lower caps.
-                    s_lyric_1=re.sub("[,-?,.!@#$:;/*']", '', lyric)
+                    s_lyric_1=re.sub("[,-?,.!@#$’’':;/*]", '', lyric)
                     s_lyric_1=re.sub('[_]',' ', s_lyric_1)
                     s_lyric_1ist+=s_lyric_1
                     s_lyric_lower=str(s_lyric_1).lower()
                     s_lyric_lower_list+=s_lyric_lower
 
+
+
                     #Tokenize the lyric.
                     tokens=nltk.word_tokenize(str(s_lyric_lower))
                     lyric_combined+=[s_lyric_1]
+
                     #Apply stopwords and filter them out.
                     reduced_tokens = [w.lower() for w in tokens if w.lower() not in sw]
-                    reduced_token_list+=[reduced_tokens]
+                    reduced_tokens=listToString(reduced_tokens)
+                    reduced_tokens2=re.sub("[,-?,.’’'!@#$:;/*]", '', reduced_tokens)
+                    reduced_token_list+=[reduced_tokens2]
 
                     #Duration start and end for each interval.
                     lyric_start=x.noteStart
