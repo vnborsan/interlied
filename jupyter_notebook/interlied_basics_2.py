@@ -34,18 +34,18 @@ from interlied_stopwords import interlied_sw
 
 def interlied_pattern_analysis(csv_folder_path):
     """
-    This one of the basic functions by InterLied, constructed to analyse music patterns of vocal or any other SINGLE voice score.
+    This is one of the basic functions by InterLied, constructed to analyse music patterns of vocal or any other SINGLE voice score.
 
     - Input: path to interval csv folder (string)
 
-    - Output: pandas dataframe.*
+    - Output: pandas dataframe.
     *The score also saves separate csv files for each score in the folder "patterns" where this code is stored. 
 
     - Available columns of dataframe: 
     ["pattern","pattern_length","duration","measure_start", "measure_end", "title", "composer", "year","lyricist", 
     "score_key_s", "alternative_keys", "range", "meter_change", "meter_s", "lyric_tokens", "lyric_language"]]
 
-    *For more information visit detailed algorithm descriptions in the repository, Interlied notebook or master's thesis.
+    *For more information visit detailed algorithm descriptions in the repository @https://github.com/vnborsan/interlied. 
 
     """
    
@@ -96,12 +96,8 @@ def interlied_pattern_analysis(csv_folder_path):
                     tkn=str(interval_csv.iloc[indx+ngram_length,15])         
                     int_l_tokens+=[tkn]
                     int_l_tokens=list(set(int_l_tokens))
-                    final_l_tokens=','.join(int_l_tokens)
-                    final_l_tokens=final_l_tokens.replace(" ", "")
-                    final_l_tokens=final_l_tokens.replace(" ,", "")
-                    final_l_tokens=final_l_tokens.replace("]", "")
-                    final_l_tokens=final_l_tokens.replace("[", "")
-                    final_l_tokens=final_l_tokens.replace(",", ", ")
+                    final_l_tokens=' '.join(int_l_tokens)
+ 
 
                     ngram_len=[str(int(len(int_ints)))]
                     current_ngram=[str(int_ints)[1:-1], str(ngram_len)[1:-1], str(int_durations)[1:-1],
@@ -165,7 +161,7 @@ def interlied_pattern_analysis(csv_folder_path):
             print("*******", "Done with processing n-grams of: ", (name), "********")
 
             print("---------------------------------------------------------------------------------------")
-            print("---------------------------------------------------------------------------------------")
+            print("-------------------------------------DONE----------------------------------------------")
             print("---------------------------------------------------------------------------------------")
 
             print(" ")
@@ -187,12 +183,9 @@ def interlied_pattern_analysis(csv_folder_path):
             f.write('\n')
             
     print("*******************************************************************")
-    print("*****************************D*O*N*E*******************************")
+    print("********************A*L*L****D*O*N*E*******************************")
     print("*******************************************************************")
 
-    print("---------------------------------------------------------------------------------------")
-    print("---------------------------------------------------------------------------------------")
-    print("---------------------------------------------------------------------------------------")
 
     return df_ngrams
 
@@ -312,7 +305,7 @@ def interlied_lyric(corpus_folder, lang):
     df_lyric_only=pd.DataFrame(l_c_list)
 
     #Make titles for columns in dataframe.
-    df_lyric_only=df_lyric_only.rename(columns={0: "composer", 1: "title", 2:"lyric", 3: "tokenized_lyric",  4: "lyric_tokens", 5:"lyricist", 6:"lyric_language", 7: "score_key_s"})
+    df_lyric_only=df_lyric_only.rename(columns={0: "composer", 1: "title", 2:"lyric", 3: "tokenized_lyric",  4: "lyric_tokens", 5:"lyricist", 6:"lyric_language", 7: "score_key"})
 
     #INFO ABOUT DATASET
     print("------------------------------------------------------------------------------------------------------------")
