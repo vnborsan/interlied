@@ -51,7 +51,20 @@ def interlied_intervals(path, lang):
 
     """
     sw=interlied_sw(lang)
-    
+        
+    # Python program to convert a list
+    # to string using join() function
+            
+    # Function to convert
+
+    def listToString(s):
+            
+            # initialize an empty string
+            str1 = " "
+            
+            # return string
+            return (str1.join(s))
+                    
 
     try:
         lied_directory=os.scandir(str(path))
@@ -222,7 +235,7 @@ def interlied_intervals(path, lang):
                     s_lyric_lower_list=[]
 
                     #Delete unneccessary symbols and make all lower caps.
-                    s_lyric_1=re.sub("[,-?,.!@#$:;/*']", '', lyric)
+                    s_lyric_1=re.sub("[,-?,.!@#$’’':;/*]", '', lyric)
                     s_lyric_1=re.sub('[_]',' ', s_lyric_1)
                     s_lyric_1ist+=s_lyric_1
                     s_lyric_lower=str(s_lyric_1).lower()
@@ -231,9 +244,12 @@ def interlied_intervals(path, lang):
                     #Tokenize the lyric.
                     tokens=nltk.word_tokenize(str(s_lyric_lower))
                     lyric_combined+=[s_lyric_1]
+                    
                     #Apply stopwords and filter them out.
                     reduced_tokens = [w.lower() for w in tokens if w.lower() not in sw]
-                    reduced_token_list+=[reduced_tokens]
+                    reduced_tokens=listToString(reduced_tokens)
+                    reduced_tokens2=re.sub("[,-?,.’’'!@#$:;/*]", '', reduced_tokens)
+                    reduced_token_list+=[reduced_tokens2]
 
                     #Duration start and end for each interval.
                     lyric_start=x.noteStart
@@ -262,10 +278,10 @@ def interlied_intervals(path, lang):
 
                 #CREATE COMBINED LIST
                 print("Creating a file...")   
-                for m in range (len(intList_1)):
+                for m in range (len(intList_1)):                          
                     NewList+=[[intList_1[m], dur_combined[m], msr_start_list[m], msr_end_list[m], titles[m], composers[m], 
                                years[m], lyricsts[m], tonalities[m], alternatives[m], voiceranges[m], meter_changes[0],
-                               meters[m], lyric_combined[m], reduced_token_list[m], lang_list[m]]]
+                               meters[m], lyric_combined[m], reduced_token_list[m],lang_list[m]]]
 
                 #CREATE DATAFRAME
                 df_intervals=pd.DataFrame(NewList)
@@ -365,12 +381,8 @@ def interlied_pattern_analysis(csv_folder_path):
                     tkn=str(interval_csv.iloc[indx+ngram_length,15])         
                     int_l_tokens+=[tkn]
                     int_l_tokens=list(set(int_l_tokens))
-                    final_l_tokens=','.join(int_l_tokens)
-                    final_l_tokens=final_l_tokens.replace(" ", "")
-                    final_l_tokens=final_l_tokens.replace(" ,", "")
-                    final_l_tokens=final_l_tokens.replace("]", "")
-                    final_l_tokens=final_l_tokens.replace("[", "")
-                    final_l_tokens=final_l_tokens.replace(",", ", ")
+                    final_l_tokens=' '.join(int_l_tokens)
+ 
 
                     ngram_len=[str(int(len(int_ints)))]
                     current_ngram=[str(int_ints)[1:-1], str(ngram_len)[1:-1], str(int_durations)[1:-1],
@@ -434,7 +446,7 @@ def interlied_pattern_analysis(csv_folder_path):
             print("*******", "Done with processing n-grams of: ", (name), "********")
 
             print("---------------------------------------------------------------------------------------")
-            print("---------------------------------------------------------------------------------------")
+            print("-------------------------------------DONE----------------------------------------------")
             print("---------------------------------------------------------------------------------------")
 
             print(" ")
@@ -456,12 +468,9 @@ def interlied_pattern_analysis(csv_folder_path):
             f.write('\n')
             
     print("*******************************************************************")
-    print("*****************************D*O*N*E*******************************")
+    print("********************A*L*L****D*O*N*E*******************************")
     print("*******************************************************************")
 
-    print("---------------------------------------------------------------------------------------")
-    print("---------------------------------------------------------------------------------------")
-    print("---------------------------------------------------------------------------------------")
 
     return df_ngrams
 
@@ -577,7 +586,7 @@ def interlied_lyric(corpus_folder, lang):
     df_lyric_only=pd.DataFrame(l_c_list)
 
     #Make titles for columns in dataframe.
-    df_lyric_only=df_lyric_only.rename(columns={0: "composer", 1: "title", 2:"lyric", 3: "tokenized_lyric",  4: "lyric_tokens", 5:"lyricist", 6:"lyric_language", 7: "score_key_s"})
+    df_lyric_only=df_lyric_only.rename(columns={0: "composer", 1: "title", 2:"lyric", 3: "tokenized_lyric",  4: "lyric_tokens", 5:"lyricist", 6:"lyric_language", 7: "score_key"})
 
     #INFO ABOUT DATASET
     print("------------------------------------------------------------------------------------------------------------")
