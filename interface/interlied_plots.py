@@ -86,18 +86,27 @@ This is one of the interlied plot functions that explores frequency of word toke
 - Output: Plot of word frequency per chosen keywords.
 
     """
-    
-    df=pd.read_csv(csv)
-    q1=str(q1)
-    q2=str(q2)
-    
-    m=df[df[str(q1)]==str(q2)]
-
-    for xy in m.iterrows():
+    try: 
+        df=pd.read_csv(csv)
+        q1=str(q1)
+        q2=str(q2)
+        
+        m=df[df[str(q1)] == str(q2)]
+        
         wrds=[]
-        for w in m['lyric_tokens']:
-            wrds.append(str(w))
-        pd.Series(wrds).value_counts().sort_values(ascending=True).plot(kind = 'barh', title='Words: '+str(q1)+"_"+str(q2))
+        long_word=""
+    
+  
+        for xy in m.lyric_tokens:
+            long_word+=" "+str(xy)
+
+    except Exception as e:
+        print(e)
+    
+    wrds=re.findall(r'\w+', long_word)
+    print (wrds)
+
+    pd.Series(wrds).value_counts()[:10].sort_values(ascending=True).plot(kind = 'barh', title='Words: '+str(q1)+"_"+str(q2))
 
 ########################################################################################################################
 
@@ -139,7 +148,10 @@ This is one of the interlied plot functions that explores frequency of word toke
         x=str(i).replace('"','').replace("'",'').replace(")",'').replace("(",'')
         x=x.split(",")
         key_list.append(x[0])
-        val_list.append(int(x[1]))
+        try: 
+            val_list.append(int(x[1]))
+        except:
+            val_list.append(int(0))
 
     wrds_dict=dict(zip(key_list, val_list))
     wrds_df=pd.DataFrame(wrds_dict.items(), columns=['word', 'frequency'])
