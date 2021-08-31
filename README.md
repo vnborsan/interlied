@@ -33,7 +33,7 @@ Also, it is strongly advised to first create a new python environment (https://d
  - pip install random2
  - pip install pandastable
 
-*So far, the errors on different computers showed difficulties installing pandastable (manual command: pip install pandastable) and pyoperators (manual command: pip install pyoperators).*
+*So far, the errors on different computers showed difficulties installing pandastable, pyoperators and os-sys.*
 
 ------
 ## 2. ACCESS THE INTERLIED TOOLS:
