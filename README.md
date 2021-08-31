@@ -21,14 +21,13 @@ Also, it is strongly advised to first create a new python environment (https://d
  - pip install pandas
  - pip install numpy
  - pip install os-sys
- - pip install itertools
- - pip install operator
+ - pip install more-itertools
+ - pip install pyoperators
  - pip install nltk
- - pip install heapq
- - pip install re
+ - pip install heapq_max
+ - pip install regex
  - pip install python-csv
  - pip install matplotlib
- - pip install pycopy-copy
  - pip install glob2
  - pip install IPython
  - pip install random2
