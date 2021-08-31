@@ -78,6 +78,7 @@ The codes are separated into 3 categories:
 
 ### 3.1 ANALYSIS
 - The first group of 3 alogrithms processes your scores and prepares dataframes (in csv form) for further data exploring.
+- !Beware - two of the three algorithms need language as the input prior to starting the function. If your function has not passed the test scores, this may be the issue.
 ### 3.2 VISUALISATIONS 
 - Plots and other visual representations allow for your data to be refined and visually represented by graphs, as music notation and / or midi.
 ### 3.3 EXPLORATION 
