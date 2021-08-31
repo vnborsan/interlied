@@ -13,7 +13,26 @@ To use GUI or the notebook, first install all prerequired dependencies. You can 
 When you successfully enter the folder, type this command into terminal: 
 "python interlied_dependencies.py"
 
-If you run into some errors, install the required packages manually by following instructions in the INTERLIED_USER_MANUAL.
+If you run into some errors, install the required packages manually (find list just below) by following instructions in the INTERLIED_USER_MANUAL.
+Also, it is strongly advised to first create a new python environment (https://docs.python.org/3/library/venv.html, if you haven't already, and then either install the dependencies manually or through Anaconda Navigator (https://docs.anaconda.com/anaconda/navigator/index.html) or miniconda (https://docs.conda.io/en/latest/miniconda.html).
+
+*The list of required packages:*
+ - pip install music21
+ - pip install pandas
+ - pip install numpy
+ - pip install os-sys
+ - pip install itertools
+ - pip install operator
+ - pip install nltk
+ - pip install heapq
+ - pip install re
+ - pip install python-csv
+ - pip install matplotlib
+ - pip install pycopy-copy
+ - pip install glob2
+ - pip install IPython
+ - pip install random2
+ - pip install pandastable
 
 *So far, the errors on different computers showed difficulties installing pandastable (manual command: pip install pandastable) and pyoperators (manual command: pip install pyoperators).*
 
