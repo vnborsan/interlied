@@ -176,4 +176,4 @@ This funcion requires a single lyric csv file path as an input and computes the 
 -------
 InterLied is my master's thesis project, defended at the Pompeu Fabra University (SMC) under the mentorship of Dr Rafael Caro Repetto.
 
-For more information about the project and the citation, revisit this page in September as the citation and the hyperlink to the full thesis will be attached after the project is published on the official UPF page.
+For more information about the project and the citation, click here: https://zenodo.org/record/5554859#.YXV6fdlBw-Q.
